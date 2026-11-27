@@ -1,0 +1,19 @@
+{
+ "name": "component-review",
+ "slug": "componentreview",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "MCP",
+ "description": "Review a Claude Code component (agent, command, skill, hook, MCP server config or setting) before sharing it or sending it to aitmpl.com. Use when the user asks to check, review or validate a component file or folder.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cloudflare-workers/mcp/skills/component-review",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cloudflare-workers/mcp/skills/component-review",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#componentreview"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "taint-trace",
+ "slug": "tainttrace",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Improves taint-analysis coverage and precision by using Trailmark graphs to repair native source, sink, sanitizer, propagation, and type models, then runs an existing taint analyzer. Use when analysis misses flows, cannot resolve framework bindings, or produces false positives from imprecise models.",
+ "source_repo": "trailofbits/skills",
+ "source_url": "https://github.com/trailofbits/skills/tree/main/plugins/trailmark/skills/taint-trace",
+ "source_commit": "149d7b21f4067765b82e67029730b42d228ef4b4",
+ "source_commit_url": "https://github.com/trailofbits/skills/tree/149d7b21f4067765b82e67029730b42d228ef4b4/plugins/trailmark/skills/taint-trace",
+ "author": "trailofbits",
+ "license": "CC-BY-SA-4.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#tainttrace"
+}

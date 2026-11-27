@@ -1,0 +1,19 @@
+{
+ "name": "assured-workloads-basics",
+ "slug": "assuredworkloadsbasics",
+ "format": "agent-skill",
+ "category": "devops-cloud",
+ "subcategory": "GCP",
+ "description": "Provisions, inspects, updates, and deletes Google Cloud Assured Workloads V1 compliant folders, CMEK settings, Sovereign Controls by Partners, and service usage restrictions. Use when creating, listing, describing, updating, or deleting an Assured Workloads workload for any compliance regime or data boundary (FedRAMP, DoD IL2/IL4/IL5, ITAR, CJIS, Healthcare, Sovereign Controls by Partners, or Regional Data Boundaries). Don't use for brownfield assessments or custom frameworks (use assuredworkloads-environment-assessor or assuredworkloads-frameworks-*), or non-compliant folders.",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/assured-workloads-basics",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/assured-workloads-basics",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#assuredworkloadsbasics"
+}

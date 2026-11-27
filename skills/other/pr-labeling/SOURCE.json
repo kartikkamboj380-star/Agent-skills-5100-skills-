@@ -1,0 +1,19 @@
+{
+ "name": "pr-labeling",
+ "slug": "prlabeling",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Classify a skills CLI pull request from its description and patch, while respecting existing labels.",
+ "source_repo": "vercel-labs/skills",
+ "source_url": "https://github.com/vercel-labs/skills/tree/main/.automations/pr-labeling/skills/pr-labeling",
+ "source_commit": "e7fd0e9e52f029fe87729d8185cb8caf7049f678",
+ "source_commit_url": "https://github.com/vercel-labs/skills/tree/e7fd0e9e52f029fe87729d8185cb8caf7049f678/.automations/pr-labeling/skills/pr-labeling",
+ "author": "vercel-labs",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#prlabeling"
+}

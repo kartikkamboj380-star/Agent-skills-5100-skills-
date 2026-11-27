@@ -1,0 +1,19 @@
+{
+ "name": "setup-matt-pocock-skills",
+ "slug": "setupmattpocockskills",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Configure this repo for the engineering skills: set up its issue tracker, triage label vocabulary, and domain doc layout. Run once before first use of the other engineering skills.",
+ "source_repo": "mattpocock/skills",
+ "source_url": "https://github.com/mattpocock/skills/tree/main/skills/engineering/setup-matt-pocock-skills",
+ "source_commit": "6f7f7831a625f040a8e06a0e7954826b87ce775a",
+ "source_commit_url": "https://github.com/mattpocock/skills/tree/6f7f7831a625f040a8e06a0e7954826b87ce775a/skills/engineering/setup-matt-pocock-skills",
+ "author": "mattpocock",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#setupmattpocockskills"
+}

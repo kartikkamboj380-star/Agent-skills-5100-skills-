@@ -1,0 +1,19 @@
+{
+ "name": "conventional-branch",
+ "slug": "conventionalbranch",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "AI Agent Development",
+ "description": "Create Git branches following the Conventional Branch specification (feature/, bugfix/, hotfix/, release/, chore/, plus AI agent prefixes ai/, copilot/, cursor/, claude/, codex/). Use when creating a new branch, naming a branch, or checking whether a branch name complies with the spec.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/conventional-branch",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/conventional-branch",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#conventionalbranch"
+}

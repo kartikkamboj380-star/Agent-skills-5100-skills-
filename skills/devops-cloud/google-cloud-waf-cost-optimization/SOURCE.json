@@ -1,0 +1,19 @@
+{
+ "name": "google-cloud-waf-cost-optimization",
+ "slug": "googlecloudwafcostoptimization",
+ "format": "agent-skill",
+ "category": "devops-cloud",
+ "subcategory": "GCP",
+ "description": "Generates cost optimization guidance for Google Cloud workloads based on the Google Cloud Well-Architected Framework (WAF). Use to evaluate a workload, identify cost requirements and constraints, and provide actionable recommendations for building cost-efficient workloads on Google Cloud.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/google-cloud-waf-cost-optimization",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/development/google-cloud-waf-cost-optimization",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#googlecloudwafcostoptimization"
+}

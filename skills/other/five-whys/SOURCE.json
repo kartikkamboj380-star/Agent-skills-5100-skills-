@@ -1,0 +1,19 @@
+{
+ "name": "five-whys",
+ "slug": "fivewhys",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Use for the 5 Whys, or when the user wants the root cause of a failure: \"why did this happen?\", \"this keeps breaking\", \"write the postmortem\", \"find the real cause\". Asks why repeatedly with evidence at each step, then sets countermeasures. Skip for one-off typos or when the cause is already proven.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/five-whys",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/productivity/five-whys",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#fivewhys"
+}

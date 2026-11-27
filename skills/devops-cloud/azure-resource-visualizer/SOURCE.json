@@ -1,0 +1,19 @@
+{
+ "name": "azure-resource-visualizer",
+ "slug": "azureresourcevisualizer",
+ "format": "agent-skill",
+ "category": "devops-cloud",
+ "subcategory": "Azure",
+ "description": "Analyze Azure resource groups and generate detailed Mermaid architecture diagrams showing the relationships between individual resources. Use this skill when the user asks for a diagram of their Azure resources or help in understanding how the resources relate to each other.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/azure-resource-visualizer",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/azure-resource-visualizer",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "skill",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#azureresourcevisualizer"
+}

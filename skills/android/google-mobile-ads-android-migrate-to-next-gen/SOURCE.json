@@ -1,0 +1,19 @@
+{
+ "name": "google-mobile-ads-android-migrate-to-next-gen",
+ "slug": "googlemobileadsandroidmigratetonextgen",
+ "format": "agent-skill",
+ "category": "android",
+ "subcategory": "Android Development",
+ "description": "Migrates Android applications from the old, legacy Google Mobile",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/ads/google-mobile-ads-android-migrate-to-next-gen",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/ads/google-mobile-ads-android-migrate-to-next-gen",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#googlemobileadsandroidmigratetonextgen"
+}

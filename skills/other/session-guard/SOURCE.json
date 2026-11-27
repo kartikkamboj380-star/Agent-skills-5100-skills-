@@ -1,0 +1,19 @@
+{
+ "name": "session-guard",
+ "slug": "sessionguard",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Use when working on complex multi-step tasks, when a session is getting long (40+ tool calls), when the agent starts ignoring rules it followed earlier, when conventions drift, when output quality seems to degrade, or after any context compaction event. Prevents long-session corruption AND context compaction amnesia through behavioral self-enforcement.",
+ "source_repo": "wshobson/agents",
+ "source_url": "https://github.com/wshobson/agents/tree/main/plugins/skill-forge-essentials/skills/session-guard",
+ "source_commit": "c96b5f6552dba32e4492307493ee613581430715",
+ "source_commit_url": "https://github.com/wshobson/agents/tree/c96b5f6552dba32e4492307493ee613581430715/plugins/skill-forge-essentials/skills/session-guard",
+ "author": "wshobson",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#sessionguard"
+}

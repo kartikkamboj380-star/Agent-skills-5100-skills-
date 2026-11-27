@@ -1,0 +1,19 @@
+{
+ "name": "curviate-quickstart",
+ "slug": "curviatequickstart",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "The first run: install the Curviate CLI, authenticate this machine with `curviate setup`, confirm with `curviate doctor`, connect a LinkedIn account, and prove the whole path works by reading the same profile live and then from the store. Use when Curviate is being set up for the first time, when `curviate` is not installed or not authenticated, when a command fails with a credential or account error, or when someone asks how to get started. Reads only: it issues no write of any kind.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/curviate/curviate-quickstart",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/curviate/curviate-quickstart",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#curviatequickstart"
+}

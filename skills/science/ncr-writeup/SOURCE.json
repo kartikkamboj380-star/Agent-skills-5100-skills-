@@ -1,0 +1,19 @@
+{
+ "name": "ncr-writeup",
+ "slug": "ncrwriteup",
+ "format": "agent-skill",
+ "category": "science",
+ "subcategory": "Physics",
+ "description": "Writes the nonconformance report: what was found and measured, the specific requirement it violates cited to its document and locator, how many parts are actually suspect and why that scope rather than a narrower one, and where every one of them physically is across all five locations. Searches prior NCRs and CAPAs at the moment of writing and reports whether the earlier fix held. Where containment places parts at a customer, drafts the escape notification automatically against its contractual clock. Never asserts a requirement it cannot locate. Keeps the site's Quality Register of open NCRs up to date, and closes an NCR there when told to. Use when someone says \\\"write up this nonconformance,\\\" \\\"we found bad parts,\\\" \\\"raise an NCR,\\\" \\\"the inspector rejected this lot,\\\" \\\"a customer is complaining about a part,\\\" or \\\"close NCR-2026-0141.\\",
+ "source_repo": "anthropics/claude-plugins-official",
+ "source_url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-for-manufacturing/skills/ncr-writeup",
+ "source_commit": "0fbfda5a91f4adc311daca25acc99132f40f0b6e",
+ "source_commit_url": "https://github.com/anthropics/claude-plugins-official/tree/0fbfda5a91f4adc311daca25acc99132f40f0b6e/plugins/claude-for-manufacturing/skills/ncr-writeup",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#ncrwriteup"
+}

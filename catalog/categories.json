@@ -1,0 +1,291 @@
+{
+ "categories": {
+  "ai-ml": {
+   "count": 1418,
+   "imported": 227,
+   "subcategories": {
+    "MCP": 1037,
+    "AI Agent Development": 96,
+    "LLM Development": 87,
+    "AI Research": 49,
+    "Model Fine-Tuning": 40,
+    "RAG": 35,
+    "Deep Learning": 19,
+    "Voice & Speech": 13,
+    "Prompt Engineering": 11,
+    "Model Quantization": 9,
+    "Machine Learning": 8,
+    "AI Evaluation": 8,
+    "Skill Engineering": 5,
+    "Prompt Testing & Evals": 1
+   }
+  },
+  "android": {
+   "count": 89,
+   "imported": 25,
+   "subcategories": {
+    "Android Development": 37,
+    "React Native": 25,
+    "Kotlin": 11,
+    "Flutter": 9,
+    "Mobile UI": 4,
+    "APK Analysis": 3
+   }
+  },
+  "automation": {
+   "count": 178,
+   "imported": 42,
+   "subcategories": {
+    "CI/CD": 61,
+    "Workflow Automation": 24,
+    "API Integrations": 23,
+    "Task Automation": 21,
+    "Cloud Automation": 14,
+    "Screenshot & Capture": 13,
+    "Browser Automation": 9,
+    "GitHub Automation": 5,
+    "File Management": 5,
+    "Logging & Context": 3
+   }
+  },
+  "business": {
+   "count": 158,
+   "imported": 26,
+   "subcategories": {
+    "Accounting & Bookkeeping": 29,
+    "Product Management": 23,
+    "Strategy": 22,
+    "HR & Recruiting": 21,
+    "Customer Success": 16,
+    "Project Management": 13,
+    "Business Analysis": 8,
+    "Legal & Compliance": 7,
+    "Sales": 7,
+    "Operations": 6,
+    "Pitch & Fundraising": 6
+   }
+  },
+  "coding": {
+   "count": 556,
+   "imported": 175,
+   "subcategories": {
+    "Debugging": 89,
+    "Python": 51,
+    "General Programming": 47,
+    "Testing": 42,
+    "Refactoring": 41,
+    "Version Control": 31,
+    "C#": 27,
+    "Backend Development": 25,
+    "Code Review": 25,
+    "Software Architecture": 23,
+    "Go": 22,
+    "API Development": 21,
+    "Concurrency": 17,
+    "Java": 12,
+    "Rust": 11,
+    "JavaScript": 11,
+    "Error Handling": 9,
+    "Performance": 8,
+    "Databases & ORM": 7,
+    "PHP": 7,
+    "Swift/iOS": 7,
+    "C++": 6,
+    "Engineering Process": 5,
+    "Ruby": 4,
+    "CLI Tools": 3,
+    "Error Diagnosis": 3,
+    "Documentation": 1,
+    "Patch & Diff": 1
+   }
+  },
+  "cybersecurity": {
+   "count": 303,
+   "imported": 88,
+   "subcategories": {
+    "Vulnerability Assessment": 106,
+    "Security Auditing": 61,
+    "Secure Coding": 28,
+    "Privacy": 28,
+    "Defensive Security": 24,
+    "Incident Response": 18,
+    "Network Security": 12,
+    "Malware Analysis": 7,
+    "Security Documentation": 6,
+    "OSINT": 6,
+    "Secrets & Encryption": 4,
+    "Bug Bounty Reporting": 3
+   }
+  },
+  "data-analysis": {
+   "count": 283,
+   "imported": 134,
+   "subcategories": {
+    "SQL": 119,
+    "Data Visualization": 44,
+    "Data Science": 31,
+    "CSV Analysis": 30,
+    "Statistics": 28,
+    "Database Design": 18,
+    "Business Intelligence": 11,
+    "Excel": 2
+   }
+  },
+  "design": {
+   "count": 183,
+   "imported": 31,
+   "subcategories": {
+    "UI/UX": 115,
+    "Animation": 15,
+    "Graphic Design": 14,
+    "Design Systems": 12,
+    "3D Design": 10,
+    "Video Editing Workflows": 10,
+    "Branding": 6,
+    "Image Generation Workflows": 1
+   }
+  },
+  "devops-cloud": {
+   "count": 413,
+   "imported": 117,
+   "subcategories": {
+    "Azure": 121,
+    "Containers": 85,
+    "Deployment": 49,
+    "SRE & Monitoring": 37,
+    "AWS": 36,
+    "Infrastructure as Code": 32,
+    "GCP": 31,
+    "Linux & Sysadmin": 18,
+    "Cloud Architecture": 2,
+    "Cost Optimization": 2
+   }
+  },
+  "documents": {
+   "count": 153,
+   "imported": 68,
+   "subcategories": {
+    "PDF": 48,
+    "Resume & Career Docs": 34,
+    "Report Generation": 25,
+    "PPTX": 21,
+    "DOCX": 15,
+    "Internal Communications": 4,
+    "XLSX": 4,
+    "Doc Coauthoring": 2
+   }
+  },
+  "education": {
+   "count": 28,
+   "imported": 9,
+   "subcategories": {
+    "Learning & Teaching": 28
+   }
+  },
+  "game-development": {
+   "count": 38,
+   "imported": 6,
+   "subcategories": {
+    "Game Development": 38
+   }
+  },
+  "marketing": {
+   "count": 149,
+   "imported": 31,
+   "subcategories": {
+    "Content Marketing": 76,
+    "Conversion Optimization": 26,
+    "Market Analysis": 16,
+    "Social Media": 16,
+    "Ad Campaigns": 7,
+    "Copywriting": 4,
+    "Email Marketing": 2,
+    "SEO Content": 1,
+    "Growth": 1
+   }
+  },
+  "other": {
+   "count": 1958,
+   "imported": 289,
+   "subcategories": {}
+  },
+  "research": {
+   "count": 109,
+   "imported": 31,
+   "subcategories": {
+    "Life & Personal": 36,
+    "Academic Research": 24,
+    "Document Summarization": 19,
+    "Knowledge Management": 11,
+    "Web Research": 6,
+    "Fact Checking": 4,
+    "Deep Research": 3,
+    "Productivity": 2,
+    "Source Verification": 2,
+    "Career Development": 1,
+    "PDF Analysis": 1
+   }
+  },
+  "science": {
+   "count": 151,
+   "imported": 82,
+   "subcategories": {
+    "Bioinformatics": 110,
+    "Scientific Analysis": 18,
+    "Chemistry": 15,
+    "Physics": 8
+   }
+  },
+  "trading-finance": {
+   "count": 79,
+   "imported": 17,
+   "subcategories": {
+    "Crypto Research": 40,
+    "Risk Management": 12,
+    "Investing Research": 9,
+    "Financial Modeling": 7,
+    "Backtesting": 4,
+    "Portfolio Analysis": 3,
+    "Options & Derivatives": 2,
+    "Fundamental Analysis": 1,
+    "Stock Market Research": 1
+   }
+  },
+  "web-development": {
+   "count": 612,
+   "imported": 126,
+   "subcategories": {
+    "JavaScript": 105,
+    "SEO": 103,
+    "React": 88,
+    "CSS": 87,
+    "Accessibility": 53,
+    "Browser Automation": 42,
+    "HTML": 41,
+    "Frontend Design": 25,
+    "Web Performance": 16,
+    "Next.js": 15,
+    "Angular": 9,
+    "Full-Stack": 9,
+    "Vue": 9,
+    "Tailwind": 7,
+    "Svelte": 3
+   }
+  },
+  "writing": {
+   "count": 79,
+   "imported": 21,
+   "subcategories": {
+    "Technical Writing": 28,
+    "Translation": 20,
+    "Humanizing & Tone": 12,
+    "Blogging & Newsletters": 7,
+    "Communication": 4,
+    "AI Text Cleanup": 4,
+    "Creative Writing": 2,
+    "Editing & Proofreading": 2
+   }
+  }
+ },
+ "total": 6937
+}

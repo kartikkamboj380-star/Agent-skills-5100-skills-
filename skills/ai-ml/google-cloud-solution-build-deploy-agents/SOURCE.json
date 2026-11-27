@@ -1,0 +1,19 @@
+{
+ "name": "google-cloud-solution-build-deploy-agents",
+ "slug": "googlecloudsolutionbuilddeployagents",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "AI Agent Development",
+ "description": "Designs, builds, and deploys AI agents or multi-agent systems on Google Cloud. Provides an interactive workflow to gather requirements, recommend a tailored architecture, and generate deployment instructions. Use when designing or implementing agentic systems on Google Cloud. Don't use for general Google Cloud solution architecture (use google-cloud-solution-architecture instead) or for narrow tasks targeting a single product without agent context.",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/google-cloud-solution-build-deploy-agents",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/google-cloud-solution-build-deploy-agents",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#googlecloudsolutionbuilddeployagents"
+}

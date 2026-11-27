@@ -1,0 +1,19 @@
+{
+ "name": "doordash-spend-guard",
+ "slug": "doordashspendguard",
+ "format": "agent-skill",
+ "category": "business",
+ "subcategory": "Accounting & Bookkeeping",
+ "description": "Hard spending policy for agent-driven DoorDash ordering through the DoorDash CLI (dd-cli). Per-order ceiling, daily/weekly/monthly caps, cooldown between orders, and blocked hours — enforced deterministically by routing every cart-mutation and checkout through the dd-guard wrapper script, which prices the cart, checks the policy against a persistent spend ledger, and refuses out-of-policy checkouts with exit code 2. Use when the user wants budget limits on agent food ordering, asks \"how much have I spent on DoorDash\", wants to set spending caps, or whenever building carts / checking out with dd-cli while this skill is installed. Pairs with a PreToolUse hook that denies raw dd-cli checkout calls that bypass the wrapper.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/doordash/doordash-spend-guard",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/doordash/doordash-spend-guard",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#doordashspendguard"
+}

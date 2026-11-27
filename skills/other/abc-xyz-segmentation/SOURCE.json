@@ -1,0 +1,19 @@
+{
+ "name": "abc-xyz-segmentation",
+ "slug": "abcxyzsegmentation",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Segment a SKU portfolio on value (ABC) and demand variability (XYZ), produce the 9-box with a planning policy per cell, and reallocate planner attention accordingly. Use when the user mentions ABC analysis, inventory segmentation, SKU rationalization, stok segmentasyonu, envanter sınıflandırma, or asks which items deserve forecasting effort. Differentiator - ABC alone is treated as half an answer; policy lives in the value x variability combination.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/operations/abc-xyz-segmentation",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/operations/abc-xyz-segmentation",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#abcxyzsegmentation"
+}

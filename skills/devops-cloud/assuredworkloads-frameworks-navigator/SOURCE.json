@@ -1,0 +1,19 @@
+{
+ "name": "assuredworkloads-frameworks-navigator",
+ "slug": "assuredworkloadsframeworksnavigator",
+ "format": "agent-skill",
+ "category": "devops-cloud",
+ "subcategory": "Infrastructure as Code",
+ "description": "Acts as a Data Boundary Compliance Analyst that maps user compliance queries against Data Boundary Frameworks and cloud controls, validates matched resources, and recommends appropriate Frameworks or cloud controls. Use when mapping direct natural language workload requirements to Assured Workloads / Data Boundary Frameworks and cloud controls, browsing built-in Data Boundary frameworks, or identifying major requirement gaps. Don't use for non-Data-Boundary Compliance Manager posture assessments or direct Terraform deployment execution without framework selection.",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/assuredworkloads-frameworks-navigator",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/assuredworkloads-frameworks-navigator",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#assuredworkloadsframeworksnavigator"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "weekly-ops-report",
+ "slug": "weeklyopsreport",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "Data Visualization",
+ "description": "Turn raw operational data into a weekly management report that answers exactly three questions - what changed, where is it concentrated, what needs a decision. Use when the user mentions weekly report, haftalık rapor, yönetim raporu, ops review, KPI summary, or asks to summarize operational data for managers. Differentiator - contract-first reporting with plain-language findings and driver decomposition, never a chart dump.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/operations/weekly-ops-report",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/operations/weekly-ops-report",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#weeklyopsreport"
+}

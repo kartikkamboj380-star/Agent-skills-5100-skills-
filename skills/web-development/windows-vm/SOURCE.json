@@ -1,0 +1,19 @@
+{
+ "name": "windows-vm",
+ "slug": "windowsvm",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "CSS",
+ "description": "Create, manage, or connect to a headless Windows 11 VM running in Docker with SSH access. Use when the user wants to spin up, stop, restart, or SSH into a Windows VM.",
+ "source_repo": "obra/superpowers-lab",
+ "source_url": "https://github.com/obra/superpowers-lab/tree/main/skills/windows-vm",
+ "source_commit": "51111f74f24058117752d9aa917cb19859f8ec86",
+ "source_commit_url": "https://github.com/obra/superpowers-lab/tree/51111f74f24058117752d9aa917cb19859f8ec86/skills/windows-vm",
+ "author": "obra",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#windowsvm"
+}

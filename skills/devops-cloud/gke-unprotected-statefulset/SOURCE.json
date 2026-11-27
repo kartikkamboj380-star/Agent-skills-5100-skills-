@@ -1,0 +1,19 @@
+{
+ "name": "gke-unprotected-statefulset",
+ "slug": "gkeunprotectedstatefulset",
+ "format": "agent-skill",
+ "category": "devops-cloud",
+ "subcategory": "Containers",
+ "description": "Audits, detects, and proposes fixes for GKE StatefulSets that lack a matching PodDisruptionBudget (PDB) to prevent simultaneous Pod evictions during voluntary node drains (GKE insight subtype PDB_UNPROTECTED_STATEFULSET). Use when investigating the PDB_UNPROTECTED_STATEFULSET insight, checking whether GKE StatefulSets have a matching PDB, or proposing fixes for selector mismatches where an existing PDB does not match the StatefulSet's .spec.selector. Don't use for existing PDBs that allow zero disruptions or block node drains (PDB_UNPERMISSIVE), general probe and PDB setup unrelated to this insight (use gke-reliability), upgrade planning (use gke-upgrades), Pods stuck in Pending (use gke-workload-troubleshooting), node autoscaling or capacity stockouts (use gke-cluster-autoscaler), ComputeClass configuration (use gke-compute-classes), or general Kubernetes manifest generation (use gke-manifest-generation).",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/gke-unprotected-statefulset",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/gke-unprotected-statefulset",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#gkeunprotectedstatefulset"
+}

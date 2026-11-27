@@ -1,0 +1,19 @@
+{
+ "name": "context-architecture",
+ "slug": "contextarchitecture",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "AI Agent Development",
+ "description": "Audit a codebase and bind every claim it makes about itself to a mechanism that fails when the claim stops being true, so it is legible to people and AI agents. Applies Context Architecture's nine principles: make structure say what the system does, place AGENTS.md at boundaries, codify conventions, and bind every claim the repo makes about itself to a mechanism (compiler, linter, automated tests, review) that fails when the claim stops being true. Works greenfield (a repo born legible) and brownfield (a repo restructured in steps). Use when an agent reimplements code that already exists, invents structure, follows stale or deleted docs, propagates a deprecated pattern, or resolves ambiguity at random, or when asked to make a repository \"agent-ready\", \"AI-legible\", or to add or fix AGENTS.md / CLAUDE.md files. Related terms: harness engineering, context files, instruction bloat, cognitive debt, agent readiness.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/context-architecture",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/development/context-architecture",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#contextarchitecture"
+}

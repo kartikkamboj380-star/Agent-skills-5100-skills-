@@ -1,0 +1,19 @@
+{
+ "name": "premium-web-design",
+ "slug": "premiumwebdesign",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "React",
+ "description": "Create premium, Awwwards-quality website designs as React (.jsx) components that look like they were built by a top-tier agency charging $50k+ per project. Use this skill whenever the user asks for a website, landing page, portfolio, or web component that should look expensive, premium, luxury, editorial, high-end, or agency-quality. Also trigger when the user mentions Awwwards, FWA, award-winning design, or references brands like Apple, Aesop, Bottega Veneta, Stripe, or any luxury/fashion/design-forward brand. Trigger when the user says things like \"make it look professional\", \"make it look expensive\", \"I want it to look really good\", \"high quality design\", \"not generic\", or expresses dissatisfaction with typical AI-generated website aesthetics. Do NOT trigger for dashboards, admin panels, internal tools, or functional UI where aesthetics are secondary to utility — the standard frontend-design skill handles those.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/premium-web-design",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/creative-design/premium-web-design",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#premiumwebdesign"
+}

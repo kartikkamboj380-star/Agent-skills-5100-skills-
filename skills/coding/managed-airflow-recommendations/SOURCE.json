@@ -1,0 +1,19 @@
+{
+ "name": "managed-airflow-recommendations",
+ "slug": "managedairflowrecommendations",
+ "format": "agent-skill",
+ "category": "coding",
+ "subcategory": "Debugging",
+ "description": "Provides recommendations and best practices for creating, configuring, tuning and optimizing Managed Service for Apache Airflow (MSAA; formerly Cloud Composer) environments. Use when the user asks for guidance, recommendations, or best practices on configuring Managed Airflow environments, scaling Airflow environments, preventing workload restarts, or analyzing system health. Don't use for troubleshooting individual DAG or task run failures, authoring DAGs, or migrating DAGs to newer Airflow versions.",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/managed-airflow-recommendations",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/managed-airflow-recommendations",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#managedairflowrecommendations"
+}

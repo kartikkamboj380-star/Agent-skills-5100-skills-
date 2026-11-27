@@ -1,0 +1,19 @@
+{
+ "name": "verification-before-completion",
+ "slug": "verificationbeforecompletion",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
+ "source_repo": "obra/superpowers",
+ "source_url": "https://github.com/obra/superpowers/tree/main/skills/verification-before-completion",
+ "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+ "source_commit_url": "https://github.com/obra/superpowers/tree/22f0b463e7a5e579904dd6211a520321035526f7/skills/verification-before-completion",
+ "author": "obra",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#verificationbeforecompletion"
+}

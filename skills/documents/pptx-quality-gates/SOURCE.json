@@ -1,0 +1,19 @@
+{
+ "name": "pptx-quality-gates",
+ "slug": "pptxqualitygates",
+ "format": "agent-skill",
+ "category": "documents",
+ "subcategory": "PPTX",
+ "description": "Use when validating or repairing an editable PPTX deck for geometry, accessibility, native editability, source lineage, and OOXML package integrity.",
+ "source_repo": "wshobson/agents",
+ "source_url": "https://github.com/wshobson/agents/tree/main/plugins/pptx-deck-creation/skills/pptx-quality-gates",
+ "source_commit": "c96b5f6552dba32e4492307493ee613581430715",
+ "source_commit_url": "https://github.com/wshobson/agents/tree/c96b5f6552dba32e4492307493ee613581430715/plugins/pptx-deck-creation/skills/pptx-quality-gates",
+ "author": "wshobson",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#pptxqualitygates"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "aws-cloudwatch-investigation",
+ "slug": "awscloudwatchinvestigation",
+ "format": "agent-skill",
+ "category": "devops-cloud",
+ "subcategory": "AWS",
+ "description": "Reusable investigation patterns for AWS CloudWatch: Logs Insights query templates, alarm-to-deployment correlation, blast-radius narrowing decision tree, and PromQL-style metric query patterns for structured incident triage.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/aws-cloudwatch-investigation",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/aws-cloudwatch-investigation",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#awscloudwatchinvestigation"
+}

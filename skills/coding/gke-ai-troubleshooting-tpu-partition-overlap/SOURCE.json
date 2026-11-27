@@ -1,0 +1,19 @@
+{
+ "name": "gke-ai-troubleshooting-tpu-partition-overlap",
+ "slug": "gkeaitroubleshootingtpupartitionoverlap",
+ "format": "agent-skill",
+ "category": "coding",
+ "subcategory": "Debugging",
+ "description": "Diagnose and resolve GKE TPU slice creation failures (SliceCreationFailed) caused by partition overlap conflicts where requested TPU partitions or their nodes are already used by another slice or JobSet. Use when diagnosing GKE TPU slice creation failures with SliceCreationFailed partition or node conflicts. Don't use for general slice lifecycle states or slice provisioning failures without node overlap (use gke-ai-troubleshooting-tpu-dynamic-slices-monitoring), quota exhaustion, or unresponsive TPU nodes.",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/gke-ai-troubleshooting-tpu-partition-overlap",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/gke-ai-troubleshooting-tpu-partition-overlap",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#gkeaitroubleshootingtpupartitionoverlap"
+}

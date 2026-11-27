@@ -1,0 +1,19 @@
+{
+ "name": "math-olympiad",
+ "slug": "matholympiad",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "1. Strip thinking before verifying — a verifier that sees the reasoning is    biased toward agreement. Fresh context, cleaned proof only. 2. \"Does this prove RH?\" — if your theorem's specialization to ζ is a famous    open problem, you have a gap. Most reliable red flag. 3. Short proof → extract the",
+ "source_repo": "anthropics/claude-plugins-official",
+ "source_url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/math-olympiad/skills/math-olympiad",
+ "source_commit": "0fbfda5a91f4adc311daca25acc99132f40f0b6e",
+ "source_commit_url": "https://github.com/anthropics/claude-plugins-official/tree/0fbfda5a91f4adc311daca25acc99132f40f0b6e/plugins/math-olympiad/skills/math-olympiad",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#matholympiad"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "witness",
+ "slug": "witness",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Proves that a coding task is actually complete instead of only claimed. Use at the start of a coding task to fix acceptance criteria with a human and capture a baseline, and before claiming the task is done to run deterministic checks. Also use when the user asks to verify an agent's work.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/witness",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/development/witness",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#witness"
+}

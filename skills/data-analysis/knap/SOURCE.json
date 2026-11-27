@@ -1,0 +1,19 @@
+{
+ "name": "knap",
+ "slug": "knap",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "CSV Analysis",
+ "description": "Render Markdown from templates and structured data using Knap CLI. Use when the user asks to apply a Knap template, turn JSON or CSV data into notes, batch-generate Markdown files, or format Defuddle output into a note.",
+ "source_repo": "obsidianmd/obsidian-skills",
+ "source_url": "https://github.com/obsidianmd/obsidian-skills/tree/main/plugins/obsidian/skills/knap",
+ "source_commit": "9c9560a870fd490b0e1a847f2c8401a50e2d931d",
+ "source_commit_url": "https://github.com/obsidianmd/obsidian-skills/tree/9c9560a870fd490b0e1a847f2c8401a50e2d931d/plugins/obsidian/skills/knap",
+ "author": "obsidianmd",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#knap"
+}

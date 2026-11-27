@@ -1,0 +1,19 @@
+{
+ "name": "create-github-issues-feature-from-implementation-plan",
+ "slug": "creategithubissuesfeaturefromimplementationplan",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Create GitHub Issues from implementation plan phases using feature_request.yml or chore_request.yml templates.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/create-github-issues-feature-from-implementation-plan",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/create-github-issues-feature-from-implementation-plan",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#creategithubissuesfeaturefromimplementationplan"
+}

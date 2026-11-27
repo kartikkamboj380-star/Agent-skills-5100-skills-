@@ -1,0 +1,19 @@
+{
+ "name": "claude-security",
+ "slug": "claudesecurity",
+ "format": "agent-skill",
+ "category": "coding",
+ "subcategory": "General Programming",
+ "description": "Claude Security: scan the codebase (the whole repository or a scoped part of it), scan changes (this branch's or a pull request's diff, or one commit), triage existing findings (another scanner's SARIF file or an earlier report, checked against the code), or suggest patches (findings turned into targeted patch files, each analyzed by a panel of agents, that you apply when you choose). Use when the user asks to scan, audit or check code with Claude Security, to scan their changes with Claude Security, to triage, validate or prioritize a SARIF file's or an earlier report's findings with the Claude Security plugin, or to fix or patch the findings of a report that this plugin wrote.",
+ "source_repo": "anthropics/claude-plugins-official",
+ "source_url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-security/skills/claude-security",
+ "source_commit": "0fbfda5a91f4adc311daca25acc99132f40f0b6e",
+ "source_commit_url": "https://github.com/anthropics/claude-plugins-official/tree/0fbfda5a91f4adc311daca25acc99132f40f0b6e/plugins/claude-security/skills/claude-security",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#claudesecurity"
+}

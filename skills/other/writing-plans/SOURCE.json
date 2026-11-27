@@ -1,0 +1,19 @@
+{
+ "name": "writing-plans",
+ "slug": "writingplans",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+ "source_repo": "obra/superpowers",
+ "source_url": "https://github.com/obra/superpowers/tree/main/skills/writing-plans",
+ "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+ "source_commit_url": "https://github.com/obra/superpowers/tree/22f0b463e7a5e579904dd6211a520321035526f7/skills/writing-plans",
+ "author": "obra",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#writingplans"
+}

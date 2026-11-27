@@ -1,0 +1,19 @@
+{
+ "name": "pb-hooks",
+ "slug": "pbhooks",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "JavaScript",
+ "description": "Server-side JavaScript hooks for PocketBase (pb_hooks). Use when writing custom routes, event hooks, cron jobs, sending emails, making HTTP requests, querying the database, or extending PocketBase with server-side logic. Covers the goja ES5 runtime, routing, middleware, all event hooks, DB queries, record operations, and global APIs.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/pocketbase/pb-hooks",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/pocketbase/pb-hooks",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#pbhooks"
+}

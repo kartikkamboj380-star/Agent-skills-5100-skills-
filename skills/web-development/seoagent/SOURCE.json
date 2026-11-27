@@ -1,0 +1,19 @@
+{
+ "name": "seoagent",
+ "slug": "seoagent",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "SEO",
+ "description": "Persistent SEO workflow for Claude Code — run a technical SEO audit, build a hub-and-spoke keyword strategy, write page-type-aware content briefs, and draft SEO-optimized articles, persisting every artifact to a .seoagent/ workspace so the work compounds across sessions. Use when auditing a site's technical SEO, planning a keyword/content strategy, writing content briefs, drafting SEO articles with structured data, or resuming SEO work started in a previous session.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/seoagent",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/business-marketing/seoagent",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#seoagent"
+}

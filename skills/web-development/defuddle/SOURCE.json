@@ -1,0 +1,19 @@
+{
+ "name": "defuddle",
+ "slug": "defuddle",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "HTML",
+ "description": "Extract clean Markdown from HTML pages with Defuddle CLI.",
+ "source_repo": "obsidianmd/obsidian-skills",
+ "source_url": "https://github.com/obsidianmd/obsidian-skills/tree/main/plugins/obsidian/skills/defuddle",
+ "source_commit": "9c9560a870fd490b0e1a847f2c8401a50e2d931d",
+ "source_commit_url": "https://github.com/obsidianmd/obsidian-skills/tree/9c9560a870fd490b0e1a847f2c8401a50e2d931d/plugins/obsidian/skills/defuddle",
+ "author": "obsidianmd",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#defuddle"
+}

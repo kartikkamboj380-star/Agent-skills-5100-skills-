@@ -1,0 +1,19 @@
+{
+ "name": "alloydb-basics",
+ "slug": "alloydbbasics",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "SQL",
+ "description": "Manages clusters, instances, and backups for AlloyDB for PostgreSQL, and integrates with AlloyDB MCP tools for automated database operations including AI-powered search and vector capabilities.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/database/alloydb-basics",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/database/alloydb-basics",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#alloydbbasics"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "tradeoff-analysis",
+ "slug": "tradeoffanalysis",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Use for tradeoff analysis, or when the user must pick between concrete options: \"A or B?\", \"which library should we use?\", \"build vs buy\", \"compare these approaches\". Scores options on weighted criteria, tests sensitivity and reversibility. Skip for open ideation or single-option reviews.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/tradeoff-analysis",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/productivity/tradeoff-analysis",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#tradeoffanalysis"
+}

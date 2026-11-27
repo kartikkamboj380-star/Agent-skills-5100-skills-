@@ -1,0 +1,19 @@
+{
+ "name": "worktree-cleaner",
+ "slug": "worktreecleaner",
+ "format": "agent-skill",
+ "category": "coding",
+ "subcategory": "Version Control",
+ "description": "Inventory the git worktrees of the current repository, classify each one with evidence (merged, PR state, uncommitted or unpushed work, locked, stale, in use by a running session) and remove them one at a time or by group, always asking the user first and verifying every removal. Use when worktrees have piled up (for example one per Claude Code task or thread), when `git worktree list` is long, or when the user asks to clean up, prune or tidy worktrees.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/git/worktree-cleaner",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/git/worktree-cleaner",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#worktreecleaner"
+}

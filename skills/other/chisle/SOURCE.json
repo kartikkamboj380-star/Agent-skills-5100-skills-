@@ -1,0 +1,19 @@
+{
+ "name": "chisle",
+ "slug": "chisle",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Maximum-efficiency dev mode: terse zero-fluff prose + YAGNI/ladder-first code. Use when user says \"chisle mode\", \"activate chisle\", \"chislify\", \"be efficient\", \"be minimal\", \"no fluff\", \"yagni\", or invokes /chisle. Deactivate: \"stop chisle\" / \"normal mode\".",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/chisle",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/productivity/chisle",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "skill",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#chisle"
+}

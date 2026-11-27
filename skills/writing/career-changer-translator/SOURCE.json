@@ -1,0 +1,19 @@
+{
+ "name": "career-changer-translator",
+ "slug": "careerchangertranslator",
+ "format": "agent-skill",
+ "category": "writing",
+ "subcategory": "Translation",
+ "description": "Translate skills from one industry to another and identify transferable skills for career pivots. Use when the user mentions changing careers, switching industries, career pivot, transferable skills, or moving from one field to another.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/career-changer-translator",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/career/career-changer-translator",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#careerchangertranslator"
+}

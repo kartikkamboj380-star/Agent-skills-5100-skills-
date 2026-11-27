@@ -1,0 +1,19 @@
+{
+ "name": "skill-over-mcp",
+ "slug": "skillovermcp",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "MCP",
+ "description": "Build an MCP server that serves skills (Skills over MCP, extension io.modelcontextprotocol/skills) with the official TypeScript SDK. Use when the user wants their MCP server to ship skills to Claude Code.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cloudflare-workers/mcp/skills/skill-over-mcp",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cloudflare-workers/mcp/skills/skill-over-mcp",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#skillovermcp"
+}

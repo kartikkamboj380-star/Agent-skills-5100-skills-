@@ -1,0 +1,19 @@
+{
+ "name": "supplier-quote-request",
+ "slug": "supplierquoterequest",
+ "format": "agent-skill",
+ "category": "science",
+ "subcategory": "Bioinformatics",
+ "description": "Builds the RFQ package that goes out to suppliers — drawing and specification at the verified current revision, the demand picture, the quality clause list, commercial terms, and a mandated response format that makes the returned bids comparable by construction. Lists everything missing. Hard stops on a revision mismatch or restricted technical data. Then runs the supplier loop: candidates from the approved supplier list with unapproved and single-source flagged, one email draft per supplier for the buyer to send, response tracking with chase drafts, returned bids read into one shape with every missing field listed, a comparison per quantity break computed in code, and a recommendation. The buyer decides; the skill records who and when. Use when someone says \\\"source this part,\\\" \\\"send an RFQ to suppliers,\\\" \\\"we need an alternate supplier,\\\" \\\"get quotes on this,\\\" \\\"who else can make this?\\\", \\\"chase the suppliers,\\\" \\\"compare these bids,\\\" or \\\"we're going with this supplier.\\",
+ "source_repo": "anthropics/claude-plugins-official",
+ "source_url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-for-manufacturing/skills/supplier-quote-request",
+ "source_commit": "0fbfda5a91f4adc311daca25acc99132f40f0b6e",
+ "source_commit_url": "https://github.com/anthropics/claude-plugins-official/tree/0fbfda5a91f4adc311daca25acc99132f40f0b6e/plugins/claude-for-manufacturing/skills/supplier-quote-request",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#supplierquoterequest"
+}

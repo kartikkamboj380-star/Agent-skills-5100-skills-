@@ -1,0 +1,19 @@
+{
+ "name": "recommerce-buy",
+ "slug": "recommercebuy",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Find and compare new and pre-owned listings against the buyer's needs, complete cost, compatibility, and collection or delivery constraints. Use for item searches, supplied shortlists, and rechecking options before a decision. Produces an evidence-backed shortlist; does not contact sellers or transact.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/recommerce-buy",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/productivity/recommerce-buy",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "skill",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#recommercebuy"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "google-cloud-storage-diagnostic",
+ "slug": "googlecloudstoragediagnostic",
+ "format": "agent-skill",
+ "category": "cybersecurity",
+ "subcategory": "Security Auditing",
+ "description": "Troubleshoots and diagnoses Cloud Storage on Google Cloud (also known colloquially as GCS) access and permission denials (403 Permission Denied or Insufficient Permission) and access control conflicts. Use whenever a user encounters or asks to analyze a 403 error on a bucket or object - including analysis-only questions where no commands are run - or needs help with IAM bindings, fine-grained ACLs, Uniform Bucket-Level Access (UBLA), getIamPolicy inspection denials and least-privilege inspection roles, browser storage.cloud.google.com Cookieauth and Data Access Audit Logging conflicts, Signed URL SignatureDoesNotMatch errors, VPC Service Controls (VPC-SC) perimeters, explicit IAM Deny policies, Bucket IP Filtering, Requester Pays, Retention Policy locks, Compute Engine VM access scopes, Application Default Credentials (ADC) mismatches, recursive delete permissions, or recreated service accounts. Don't use for creating buckets, routine uploads/downloads, proactive security audits, or Cloud Storage FUSE mounts.",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/google-cloud-storage-diagnostic",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/google-cloud-storage-diagnostic",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#googlecloudstoragediagnostic"
+}

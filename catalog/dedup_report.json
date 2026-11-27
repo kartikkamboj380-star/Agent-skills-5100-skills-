@@ -1,0 +1,3008 @@
+{
+ "raw_records": 14403,
+ "unique_skills": 6337,
+ "exact_content_duplicates_removed": 5959,
+ "same_name_duplicates_removed": 2107,
+ "duplicates": [
+  {
+   "duplicate_of": "bannerdesign",
+   "reason": "identical-content",
+   "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+   "path": "cli/assets/skills/banner-design"
+  },
+  {
+   "duplicate_of": "brand",
+   "reason": "identical-content",
+   "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+   "path": "cli/assets/skills/brand"
+  },
+  {
+   "duplicate_of": "design",
+   "reason": "identical-content",
+   "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+   "path": "cli/assets/skills/design"
+  },
+  {
+   "duplicate_of": "designsystem",
+   "reason": "identical-content",
+   "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+   "path": "cli/assets/skills/design-system"
+  },
+  {
+   "duplicate_of": "slides",
+   "reason": "identical-content",
+   "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+   "path": "cli/assets/skills/slides"
+  },
+  {
+   "duplicate_of": "uistyling",
+   "reason": "identical-content",
+   "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+   "path": "cli/assets/skills/ui-styling"
+  },
+  {
+   "duplicate_of": "testdrivendevelopment",
+   "reason": "same-normalized-name",
+   "repo": "addyosmani/agent-skills",
+   "path": "skills/test-driven-development"
+  },
+  {
+   "duplicate_of": "brandguidelines",
+   "reason": "identical-content",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "brand-guidelines"
+  },
+  {
+   "duplicate_of": "canvasdesign",
+   "reason": "identical-content",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "canvas-design"
+  },
+  {
+   "duplicate_of": "internalcomms",
+   "reason": "identical-content",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "internal-comms"
+  },
+  {
+   "duplicate_of": "mcpbuilder",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "mcp-builder"
+  },
+  {
+   "duplicate_of": "skillcreator",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "skill-creator"
+  },
+  {
+   "duplicate_of": "slackgifcreator",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "slack-gif-creator"
+  },
+  {
+   "duplicate_of": "themefactory",
+   "reason": "identical-content",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "theme-factory"
+  },
+  {
+   "duplicate_of": "webapptesting",
+   "reason": "identical-content",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "webapp-testing"
+  },
+  {
+   "duplicate_of": "anthropicadministratorautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/anthropic_administrator-automation"
+  },
+  {
+   "duplicate_of": "capsulecrmautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/capsule_crm-automation"
+  },
+  {
+   "duplicate_of": "dockerhubautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/docker_hub-automation"
+  },
+  {
+   "duplicate_of": "filloutformsautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/fillout_forms-automation"
+  },
+  {
+   "duplicate_of": "googleadminautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/google_admin-automation"
+  },
+  {
+   "duplicate_of": "googleclassroomautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/google_classroom-automation"
+  },
+  {
+   "duplicate_of": "googlemapsautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/google_maps-automation"
+  },
+  {
+   "duplicate_of": "googlesearchconsoleautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/google_search_console-automation"
+  },
+  {
+   "duplicate_of": "launchdarklyautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/launch_darkly-automation"
+  },
+  {
+   "duplicate_of": "lemonsqueezyautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/lemon_squeezy-automation"
+  },
+  {
+   "duplicate_of": "manychatautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/many_chat-automation"
+  },
+  {
+   "duplicate_of": "microsoftclarityautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/microsoft_clarity-automation"
+  },
+  {
+   "duplicate_of": "mistralaiautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/mistral_ai-automation"
+  },
+  {
+   "duplicate_of": "newrelicautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/new_relic-automation"
+  },
+  {
+   "duplicate_of": "onesignalrestapiautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/onesignal_rest_api-automation"
+  },
+  {
+   "duplicate_of": "ringcentralautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/ring_central-automation"
+  },
+  {
+   "duplicate_of": "sharepointautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/share_point-automation"
+  },
+  {
+   "duplicate_of": "similarwebdigitalrankapiautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/similarweb_digitalrank_api-automation"
+  },
+  {
+   "duplicate_of": "surveymonkeyautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/survey_monkey-automation"
+  },
+  {
+   "duplicate_of": "waveaccountingautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/wave_accounting-automation"
+  },
+  {
+   "duplicate_of": "zohobiginautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/zoho_bigin-automation"
+  },
+  {
+   "duplicate_of": "zohobooksautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/zoho_books-automation"
+  },
+  {
+   "duplicate_of": "zohodeskautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/zoho_desk-automation"
+  },
+  {
+   "duplicate_of": "zohoinventoryautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/zoho_inventory-automation"
+  },
+  {
+   "duplicate_of": "zohoinvoiceautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/zoho_invoice-automation"
+  },
+  {
+   "duplicate_of": "zohomailautomation",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "composio-skills/zoho_mail-automation"
+  },
+  {
+   "duplicate_of": "docx",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "document-skills/docx"
+  },
+  {
+   "duplicate_of": "pdf",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "document-skills/pdf"
+  },
+  {
+   "duplicate_of": "pptx",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "document-skills/pptx"
+  },
+  {
+   "duplicate_of": "xlsx",
+   "reason": "same-normalized-name",
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "path": "document-skills/xlsx"
+  },
+  {
+   "duplicate_of": "abtesting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/ab-testing"
+  },
+  {
+   "duplicate_of": "activecampaignautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/activecampaign-automation"
+  },
+  {
+   "duplicate_of": "adcreative",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/ad-creative"
+  },
+  {
+   "duplicate_of": "aiseo",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/ai-seo"
+  },
+  {
+   "duplicate_of": "algorithmicart",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/algorithmic-art"
+  },
+  {
+   "duplicate_of": "analytics",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/analytics"
+  },
+  {
+   "duplicate_of": "apiandinterfacedesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/api-and-interface-design"
+  },
+  {
+   "duplicate_of": "askmatt",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/ask-matt"
+  },
+  {
+   "duplicate_of": "astropy",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/astropy"
+  },
+  {
+   "duplicate_of": "biopython",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/biopython"
+  },
+  {
+   "duplicate_of": "brainstorming",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/brainstorming"
+  },
+  {
+   "duplicate_of": "brandguidelines",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/brand-guidelines"
+  },
+  {
+   "duplicate_of": "browsertestingwithdevtools",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/browser-testing-with-devtools"
+  },
+  {
+   "duplicate_of": "canvasdesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/canvas-design"
+  },
+  {
+   "duplicate_of": "churnprevention",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/churn-prevention"
+  },
+  {
+   "duplicate_of": "cicdandautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/ci-cd-and-automation"
+  },
+  {
+   "duplicate_of": "cirq",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/cirq"
+  },
+  {
+   "duplicate_of": "citationmanagement",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/citation-management"
+  },
+  {
+   "duplicate_of": "claudeapi",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/claude-api"
+  },
+  {
+   "duplicate_of": "comarketing",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/co-marketing"
+  },
+  {
+   "duplicate_of": "codereview",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/code-review"
+  },
+  {
+   "duplicate_of": "codereviewandquality",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/code-review-and-quality"
+  },
+  {
+   "duplicate_of": "codesimplification",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/code-simplification"
+  },
+  {
+   "duplicate_of": "codebasedesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/codebase-design"
+  },
+  {
+   "duplicate_of": "coldemail",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/cold-email"
+  },
+  {
+   "duplicate_of": "competitorprofiling",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/competitor-profiling"
+  },
+  {
+   "duplicate_of": "constraintdrivendevelopment",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/constraint-driven-development"
+  },
+  {
+   "duplicate_of": "contentstrategy",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/content-strategy"
+  },
+  {
+   "duplicate_of": "contextengineering",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/context-engineering"
+  },
+  {
+   "duplicate_of": "copyediting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/copy-editing"
+  },
+  {
+   "duplicate_of": "copywriting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/copywriting"
+  },
+  {
+   "duplicate_of": "cro",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/cro"
+  },
+  {
+   "duplicate_of": "customerresearch",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/customer-research"
+  },
+  {
+   "duplicate_of": "debugginganderrorrecovery",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/debugging-and-error-recovery"
+  },
+  {
+   "duplicate_of": "defuddle",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/defuddle"
+  },
+  {
+   "duplicate_of": "deprecationandmigration",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/deprecation-and-migration"
+  },
+  {
+   "duplicate_of": "designsystem",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/design-system"
+  },
+  {
+   "duplicate_of": "designtastefrontend",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/design-taste-frontend"
+  },
+  {
+   "duplicate_of": "diagnosingbugs",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/diagnosing-bugs"
+  },
+  {
+   "duplicate_of": "directorysubmissions",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/directory-submissions"
+  },
+  {
+   "duplicate_of": "dispatchingparallelagents",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/dispatching-parallel-agents"
+  },
+  {
+   "duplicate_of": "doccoauthoring",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/doc-coauthoring"
+  },
+  {
+   "duplicate_of": "documentationandadrs",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/documentation-and-adrs"
+  },
+  {
+   "duplicate_of": "domainmodeling",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/domain-modeling"
+  },
+  {
+   "duplicate_of": "doubtdrivendevelopment",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/doubt-driven-development"
+  },
+  {
+   "duplicate_of": "exasearch",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/exa-search"
+  },
+  {
+   "duplicate_of": "executingplans",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/executing-plans"
+  },
+  {
+   "duplicate_of": "fileorganizer",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/file-organizer"
+  },
+  {
+   "duplicate_of": "finishingadevelopmentbranch",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/finishing-a-development-branch"
+  },
+  {
+   "duplicate_of": "frontenddesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/frontend-design"
+  },
+  {
+   "duplicate_of": "frontenduiengineering",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/frontend-ui-engineering"
+  },
+  {
+   "duplicate_of": "gitworkflowandversioning",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/git-workflow-and-versioning"
+  },
+  {
+   "duplicate_of": "googlecalendarautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/google-calendar-automation"
+  },
+  {
+   "duplicate_of": "googledocsautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/google-docs-automation"
+  },
+  {
+   "duplicate_of": "googledriveautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/google-drive-automation"
+  },
+  {
+   "duplicate_of": "googleslidesautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/google-slides-automation"
+  },
+  {
+   "duplicate_of": "googlesheetsautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/googlesheets-automation"
+  },
+  {
+   "duplicate_of": "grillme",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/grill-me"
+  },
+  {
+   "duplicate_of": "grillwithdocs",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/grill-with-docs"
+  },
+  {
+   "duplicate_of": "grilling",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/grilling"
+  },
+  {
+   "duplicate_of": "handoff",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/handoff"
+  },
+  {
+   "duplicate_of": "huggingfacecommunityevals",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/huggingface-community-evals"
+  },
+  {
+   "duplicate_of": "huggingfacedatasets",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/huggingface-datasets"
+  },
+  {
+   "duplicate_of": "huggingfacetoolbuilder",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/huggingface-tool-builder"
+  },
+  {
+   "duplicate_of": "idearefine",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/idea-refine"
+  },
+  {
+   "duplicate_of": "implement",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/implement"
+  },
+  {
+   "duplicate_of": "improvecodebasearchitecture",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/improve-codebase-architecture"
+  },
+  {
+   "duplicate_of": "incrementalimplementation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/incremental-implementation"
+  },
+  {
+   "duplicate_of": "internalcomms",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/internal-comms"
+  },
+  {
+   "duplicate_of": "interviewme",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/interview-me"
+  },
+  {
+   "duplicate_of": "jsoncanvas",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/json-canvas"
+  },
+  {
+   "duplicate_of": "last30days",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/last30days"
+  },
+  {
+   "duplicate_of": "leadmagnets",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/lead-magnets"
+  },
+  {
+   "duplicate_of": "marketingideas",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/marketing-ideas"
+  },
+  {
+   "duplicate_of": "marketingplan",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/marketing-plan"
+  },
+  {
+   "duplicate_of": "marketingpsychology",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/marketing-psychology"
+  },
+  {
+   "duplicate_of": "matplotlib",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/matplotlib"
+  },
+  {
+   "duplicate_of": "mcpbuilder",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/mcp-builder"
+  },
+  {
+   "duplicate_of": "networkx",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/networkx"
+  },
+  {
+   "duplicate_of": "observabilityandinstrumentation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/observability-and-instrumentation"
+  },
+  {
+   "duplicate_of": "obsidianbases",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/obsidian-bases"
+  },
+  {
+   "duplicate_of": "obsidiancli",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/obsidian-cli"
+  },
+  {
+   "duplicate_of": "obsidianmarkdown",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/obsidian-markdown"
+  },
+  {
+   "duplicate_of": "offers",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/offers"
+  },
+  {
+   "duplicate_of": "onboarding",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/onboarding"
+  },
+  {
+   "duplicate_of": "pennylane",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/pennylane"
+  },
+  {
+   "duplicate_of": "performanceoptimization",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/performance-optimization"
+  },
+  {
+   "duplicate_of": "planningandtaskbreakdown",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/planning-and-task-breakdown"
+  },
+  {
+   "duplicate_of": "polars",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/polars"
+  },
+  {
+   "duplicate_of": "pricing",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/pricing"
+  },
+  {
+   "duplicate_of": "productmarketing",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/product-marketing"
+  },
+  {
+   "duplicate_of": "programmaticseo",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/programmatic-seo"
+  },
+  {
+   "duplicate_of": "prototype",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/prototype"
+  },
+  {
+   "duplicate_of": "publicrelations",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/public-relations"
+  },
+  {
+   "duplicate_of": "qiskit",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/qiskit"
+  },
+  {
+   "duplicate_of": "receivingcodereview",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/receiving-code-review"
+  },
+  {
+   "duplicate_of": "requestingcodereview",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/requesting-code-review"
+  },
+  {
+   "duplicate_of": "revops",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/revops"
+  },
+  {
+   "duplicate_of": "salesenablement",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/sales-enablement"
+  },
+  {
+   "duplicate_of": "scanpy",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/scanpy"
+  },
+  {
+   "duplicate_of": "scientificwriting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/scientific-writing"
+  },
+  {
+   "duplicate_of": "scikitlearn",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/scikit-learn"
+  },
+  {
+   "duplicate_of": "seaborn",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/seaborn"
+  },
+  {
+   "duplicate_of": "securityandhardening",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/security-and-hardening"
+  },
+  {
+   "duplicate_of": "securityaudit",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/security-audit"
+  },
+  {
+   "duplicate_of": "seoaudit",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/seo-audit"
+  },
+  {
+   "duplicate_of": "setupmattpocockskills",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/setup-matt-pocock-skills"
+  },
+  {
+   "duplicate_of": "shippingandlaunch",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/shipping-and-launch"
+  },
+  {
+   "duplicate_of": "sitearchitecture",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/site-architecture"
+  },
+  {
+   "duplicate_of": "skillcreator",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/skill-creator"
+  },
+  {
+   "duplicate_of": "slackgifcreator",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/slack-gif-creator"
+  },
+  {
+   "duplicate_of": "sourcedrivendevelopment",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/source-driven-development"
+  },
+  {
+   "duplicate_of": "specdrivendevelopment",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/spec-driven-development"
+  },
+  {
+   "duplicate_of": "statsmodels",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/statsmodels"
+  },
+  {
+   "duplicate_of": "subagentdrivendevelopment",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/subagent-driven-development"
+  },
+  {
+   "duplicate_of": "sympy",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/sympy"
+  },
+  {
+   "duplicate_of": "systematicdebugging",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/systematic-debugging"
+  },
+  {
+   "duplicate_of": "tdd",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/tdd"
+  },
+  {
+   "duplicate_of": "teach",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/teach"
+  },
+  {
+   "duplicate_of": "testdrivendevelopment",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/test-driven-development"
+  },
+  {
+   "duplicate_of": "themefactory",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/theme-factory"
+  },
+  {
+   "duplicate_of": "triage",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/triage"
+  },
+  {
+   "duplicate_of": "uiuxpromax",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/ui-ux-pro-max"
+  },
+  {
+   "duplicate_of": "usingagentskills",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/using-agent-skills"
+  },
+  {
+   "duplicate_of": "usinggitworktrees",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/using-git-worktrees"
+  },
+  {
+   "duplicate_of": "usingsuperpowers",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/using-superpowers"
+  },
+  {
+   "duplicate_of": "verificationbeforecompletion",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/verification-before-completion"
+  },
+  {
+   "duplicate_of": "webartifactsbuilder",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/web-artifacts-builder"
+  },
+  {
+   "duplicate_of": "webapptesting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/webapp-testing"
+  },
+  {
+   "duplicate_of": "writingplans",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/writing-plans"
+  },
+  {
+   "duplicate_of": "writingskills",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "skills/writing-skills"
+  },
+  {
+   "duplicate_of": "accesslintaudit",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-accessibility-inclusive-ux/skills/accesslint-audit"
+  },
+  {
+   "duplicate_of": "accesslintdiff",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-accessibility-inclusive-ux/skills/accesslint-diff"
+  },
+  {
+   "duplicate_of": "accesslintscan",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-accessibility-inclusive-ux/skills/accesslint-scan"
+  },
+  {
+   "duplicate_of": "fixingaccessibility",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-accessibility-inclusive-ux/skills/fixing-accessibility"
+  },
+  {
+   "duplicate_of": "playwrightskill",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-accessibility-inclusive-ux/skills/playwright-skill"
+  },
+  {
+   "duplicate_of": "screenreadertesting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-accessibility-inclusive-ux/skills/screen-reader-testing"
+  },
+  {
+   "duplicate_of": "uia11y",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-accessibility-inclusive-ux/skills/ui-a11y"
+  },
+  {
+   "duplicate_of": "uistates",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-accessibility-inclusive-ux/skills/ui-states"
+  },
+  {
+   "duplicate_of": "wcagauditpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-accessibility-inclusive-ux/skills/wcag-audit-patterns"
+  },
+  {
+   "duplicate_of": "webapptesting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-accessibility-inclusive-ux/skills/webapp-testing"
+  },
+  {
+   "duplicate_of": "agentevaluation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/agent-evaluation"
+  },
+  {
+   "duplicate_of": "agentevaluationreporting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/agent-evaluation-reporting"
+  },
+  {
+   "duplicate_of": "agentharnessfaultinjection",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/agent-harness-fault-injection"
+  },
+  {
+   "duplicate_of": "agentmemorysystems",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/agent-memory-systems"
+  },
+  {
+   "duplicate_of": "aiagentsarchitect",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/ai-agents-architect"
+  },
+  {
+   "duplicate_of": "contextwindowmanagement",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/context-window-management"
+  },
+  {
+   "duplicate_of": "langfuse",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/langfuse"
+  },
+  {
+   "duplicate_of": "langgraph",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/langgraph"
+  },
+  {
+   "duplicate_of": "llmapppatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/llm-app-patterns"
+  },
+  {
+   "duplicate_of": "llmevaluation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/llm-evaluation"
+  },
+  {
+   "duplicate_of": "mcpbuilder",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/mcp-builder"
+  },
+  {
+   "duplicate_of": "mcptooldeveloper",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/mcp-tool-developer"
+  },
+  {
+   "duplicate_of": "promptcaching",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/prompt-caching"
+  },
+  {
+   "duplicate_of": "promptengineering",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/prompt-engineering"
+  },
+  {
+   "duplicate_of": "ragengineer",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/rag-engineer"
+  },
+  {
+   "duplicate_of": "ragimplementation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/rag-implementation"
+  },
+  {
+   "duplicate_of": "skillsecurityaudit",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-agent-mcp-builder/skills/skill-security-audit"
+  },
+  {
+   "duplicate_of": "abtestsetup",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-ai-product-evaluation-ops/skills/ab-test-setup"
+  },
+  {
+   "duplicate_of": "advancedevaluation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-ai-product-evaluation-ops/skills/advanced-evaluation"
+  },
+  {
+   "duplicate_of": "agentevaluation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-ai-product-evaluation-ops/skills/agent-evaluation"
+  },
+  {
+   "duplicate_of": "agentevaluationreporting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-ai-product-evaluation-ops/skills/agent-evaluation-reporting"
+  },
+  {
+   "duplicate_of": "aiwrapperproduct",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-ai-product-evaluation-ops/skills/ai-wrapper-product"
+  },
+  {
+   "duplicate_of": "analyticsproduct",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-ai-product-evaluation-ops/skills/analytics-product"
+  },
+  {
+   "duplicate_of": "contextwindowmanagement",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-ai-product-evaluation-ops/skills/context-window-management"
+  },
+  {
+   "duplicate_of": "huggingfaceevaluation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-ai-product-evaluation-ops/skills/hugging-face-evaluation"
+  },
+  {
+   "duplicate_of": "kpidashboarddesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-ai-product-evaluation-ops/skills/kpi-dashboard-design"
+  },
+  {
+   "duplicate_of": "langfuse",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-ai-product-evaluation-ops/skills/langfuse"
+  },
+  {
+   "duplicate_of": "llmapppatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-ai-product-evaluation-ops/skills/llm-app-patterns"
+  },
+  {
+   "duplicate_of": "productmanager",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-ai-product-evaluation-ops/skills/product-manager"
+  },
+  {
+   "duplicate_of": "skillsecurityaudit",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-ai-product-evaluation-ops/skills/skill-security-audit"
+  },
+  {
+   "duplicate_of": "apicontracttesting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/api-contract-testing"
+  },
+  {
+   "duplicate_of": "apidesignprinciples",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/api-design-principles"
+  },
+  {
+   "duplicate_of": "apidocumentation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/api-documentation"
+  },
+  {
+   "duplicate_of": "apiendpointbuilder",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/api-endpoint-builder"
+  },
+  {
+   "duplicate_of": "apipatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/api-patterns"
+  },
+  {
+   "duplicate_of": "apiratelimithandler",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/api-rate-limit-handler"
+  },
+  {
+   "duplicate_of": "apisecuritybestpractices",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/api-security-best-practices"
+  },
+  {
+   "duplicate_of": "authimplementationpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/auth-implementation-patterns"
+  },
+  {
+   "duplicate_of": "backendarchitect",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/backend-architect"
+  },
+  {
+   "duplicate_of": "backenddevguidelines",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/backend-dev-guidelines"
+  },
+  {
+   "duplicate_of": "databasedesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/database-design"
+  },
+  {
+   "duplicate_of": "deprecationandmigration",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/deprecation-and-migration"
+  },
+  {
+   "duplicate_of": "e2etestingpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/e2e-testing-patterns"
+  },
+  {
+   "duplicate_of": "frontenddeveloper",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/frontend-developer"
+  },
+  {
+   "duplicate_of": "k6loadtesting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/k6-load-testing"
+  },
+  {
+   "duplicate_of": "observabilityengineer",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/observability-engineer"
+  },
+  {
+   "duplicate_of": "openapispecgeneration",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/openapi-spec-generation"
+  },
+  {
+   "duplicate_of": "seniorfullstack",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/senior-fullstack"
+  },
+  {
+   "duplicate_of": "stripeintegration",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-api-platform-builder/skills/stripe-integration"
+  },
+  {
+   "duplicate_of": "airtableautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/airtable-automation"
+  },
+  {
+   "duplicate_of": "apiintegration",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/api-integration"
+  },
+  {
+   "duplicate_of": "apiratelimithandler",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/api-rate-limit-handler"
+  },
+  {
+   "duplicate_of": "browserautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/browser-automation"
+  },
+  {
+   "duplicate_of": "githubautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/github-automation"
+  },
+  {
+   "duplicate_of": "googlecalendarautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/google-calendar-automation"
+  },
+  {
+   "duplicate_of": "googlesheetsautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/googlesheets-automation"
+  },
+  {
+   "duplicate_of": "hubspotautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/hubspot-automation"
+  },
+  {
+   "duplicate_of": "makeautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/make-automation"
+  },
+  {
+   "duplicate_of": "mcpbuilder",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/mcp-builder"
+  },
+  {
+   "duplicate_of": "n8nworkflowpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/n8n-workflow-patterns"
+  },
+  {
+   "duplicate_of": "notionautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/notion-automation"
+  },
+  {
+   "duplicate_of": "outlookcalendarautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/outlook-calendar-automation"
+  },
+  {
+   "duplicate_of": "sendgridautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/sendgrid-automation"
+  },
+  {
+   "duplicate_of": "shopifyautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/shopify-automation"
+  },
+  {
+   "duplicate_of": "slackautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/slack-automation"
+  },
+  {
+   "duplicate_of": "stripeautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/stripe-automation"
+  },
+  {
+   "duplicate_of": "workflowautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/workflow-automation"
+  },
+  {
+   "duplicate_of": "zapiermakepatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/zapier-make-patterns"
+  },
+  {
+   "duplicate_of": "zendeskautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-automation-builder/skills/zendesk-automation"
+  },
+  {
+   "duplicate_of": "abtestsetup",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/ab-test-setup"
+  },
+  {
+   "duplicate_of": "analyticsproduct",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/analytics-product"
+  },
+  {
+   "duplicate_of": "analyticstracking",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/analytics-tracking"
+  },
+  {
+   "duplicate_of": "businessanalyst",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/business-analyst"
+  },
+  {
+   "duplicate_of": "clauded3jsskill",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/claude-d3js-skill"
+  },
+  {
+   "duplicate_of": "dataqualityframeworks",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/data-quality-frameworks"
+  },
+  {
+   "duplicate_of": "datastorytelling",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/data-storytelling"
+  },
+  {
+   "duplicate_of": "databasearchitect",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/database-architect"
+  },
+  {
+   "duplicate_of": "dbttransformationpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/dbt-transformation-patterns"
+  },
+  {
+   "duplicate_of": "kpidashboarddesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/kpi-dashboard-design"
+  },
+  {
+   "duplicate_of": "marketsizinganalysis",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/market-sizing-analysis"
+  },
+  {
+   "duplicate_of": "postgresbestpractices",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/postgres-best-practices"
+  },
+  {
+   "duplicate_of": "sqloptimizationpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/sql-optimization-patterns"
+  },
+  {
+   "duplicate_of": "sqlpro",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/sql-pro"
+  },
+  {
+   "duplicate_of": "startupfinancialmodeling",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/startup-financial-modeling"
+  },
+  {
+   "duplicate_of": "startupmetricsframework",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-analytics/skills/startup-metrics-framework"
+  },
+  {
+   "duplicate_of": "airflowdagpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-engineering-platform/skills/airflow-dag-patterns"
+  },
+  {
+   "duplicate_of": "dataengineer",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-engineering-platform/skills/data-engineer"
+  },
+  {
+   "duplicate_of": "dataqualityframeworks",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-engineering-platform/skills/data-quality-frameworks"
+  },
+  {
+   "duplicate_of": "databasearchitect",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-engineering-platform/skills/database-architect"
+  },
+  {
+   "duplicate_of": "dbttransformationpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-engineering-platform/skills/dbt-transformation-patterns"
+  },
+  {
+   "duplicate_of": "embeddingstrategies",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-engineering-platform/skills/embedding-strategies"
+  },
+  {
+   "duplicate_of": "postgresbestpractices",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-engineering-platform/skills/postgres-best-practices"
+  },
+  {
+   "duplicate_of": "ragengineer",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-engineering-platform/skills/rag-engineer"
+  },
+  {
+   "duplicate_of": "sqlpro",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-engineering-platform/skills/sql-pro"
+  },
+  {
+   "duplicate_of": "vectordatabaseengineer",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-engineering-platform/skills/vector-database-engineer"
+  },
+  {
+   "duplicate_of": "warehouse",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-data-engineering-platform/skills/warehouse"
+  },
+  {
+   "duplicate_of": "awsserverless",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/aws-serverless"
+  },
+  {
+   "duplicate_of": "azddeployment",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/azd-deployment"
+  },
+  {
+   "duplicate_of": "azureaiopenaidotnet",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/azure-ai-openai-dotnet"
+  },
+  {
+   "duplicate_of": "azurefunctions",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/azure-functions"
+  },
+  {
+   "duplicate_of": "azureidentitypy",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/azure-identity-py"
+  },
+  {
+   "duplicate_of": "azuremonitoropentelemetryts",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/azure-monitor-opentelemetry-ts"
+  },
+  {
+   "duplicate_of": "azuresearchdocumentspy",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/azure-search-documents-py"
+  },
+  {
+   "duplicate_of": "bashlinux",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/bash-linux"
+  },
+  {
+   "duplicate_of": "cicdandautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/ci-cd-and-automation"
+  },
+  {
+   "duplicate_of": "deploymentprocedures",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/deployment-procedures"
+  },
+  {
+   "duplicate_of": "devopstroubleshooter",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/devops-troubleshooter"
+  },
+  {
+   "duplicate_of": "dockerexpert",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/docker-expert"
+  },
+  {
+   "duplicate_of": "environmentsetupguide",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/environment-setup-guide"
+  },
+  {
+   "duplicate_of": "githubactionstemplates",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/github-actions-templates"
+  },
+  {
+   "duplicate_of": "incidentresponder",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/incident-responder"
+  },
+  {
+   "duplicate_of": "kubernetesarchitect",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/kubernetes-architect"
+  },
+  {
+   "duplicate_of": "secretsmanagement",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/secrets-management"
+  },
+  {
+   "duplicate_of": "terraformspecialist",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-devops-cloud/skills/terraform-specialist"
+  },
+  {
+   "duplicate_of": "copyediting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-documents-presentations/skills/copy-editing"
+  },
+  {
+   "duplicate_of": "doccoauthoring",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-documents-presentations/skills/doc-coauthoring"
+  },
+  {
+   "duplicate_of": "googledocsautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-documents-presentations/skills/google-docs-automation"
+  },
+  {
+   "duplicate_of": "googlesheetsautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-documents-presentations/skills/google-sheets-automation"
+  },
+  {
+   "duplicate_of": "googleslidesautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-documents-presentations/skills/google-slides-automation"
+  },
+  {
+   "duplicate_of": "officeproductivity",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-documents-presentations/skills/office-productivity"
+  },
+  {
+   "duplicate_of": "pdfconversionrouter",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-documents-presentations/skills/pdf-conversion-router"
+  },
+  {
+   "duplicate_of": "analyticstracking",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-localization-international-growth/skills/analytics-tracking"
+  },
+  {
+   "duplicate_of": "apifymarketresearch",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-localization-international-growth/skills/apify-market-research"
+  },
+  {
+   "duplicate_of": "contentcreator",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-localization-international-growth/skills/content-creator"
+  },
+  {
+   "duplicate_of": "copyediting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-localization-international-growth/skills/copy-editing"
+  },
+  {
+   "duplicate_of": "copywriting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-localization-international-growth/skills/copywriting"
+  },
+  {
+   "duplicate_of": "i18nlocalization",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-localization-international-growth/skills/i18n-localization"
+  },
+  {
+   "duplicate_of": "schemamarkup",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-localization-international-growth/skills/schema-markup"
+  },
+  {
+   "duplicate_of": "seocontentplanner",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-localization-international-growth/skills/seo-content-planner"
+  },
+  {
+   "duplicate_of": "seocontentrefresher",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-localization-international-growth/skills/seo-content-refresher"
+  },
+  {
+   "duplicate_of": "seocontentwriter",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-localization-international-growth/skills/seo-content-writer"
+  },
+  {
+   "duplicate_of": "seofundamentals",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-localization-international-growth/skills/seo-fundamentals"
+  },
+  {
+   "duplicate_of": "seohreflang",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-localization-international-growth/skills/seo-hreflang"
+  },
+  {
+   "duplicate_of": "abtestsetup",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/ab-test-setup"
+  },
+  {
+   "duplicate_of": "analyticstracking",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/analytics-tracking"
+  },
+  {
+   "duplicate_of": "contentcreator",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/content-creator"
+  },
+  {
+   "duplicate_of": "contentstrategy",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/content-strategy"
+  },
+  {
+   "duplicate_of": "copyediting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/copy-editing"
+  },
+  {
+   "duplicate_of": "copywriting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/copywriting"
+  },
+  {
+   "duplicate_of": "emailsequence",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/email-sequence"
+  },
+  {
+   "duplicate_of": "productmarketingcontext",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/product-marketing-context"
+  },
+  {
+   "duplicate_of": "programmaticseo",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/programmatic-seo"
+  },
+  {
+   "duplicate_of": "schemamarkup",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/schema-markup"
+  },
+  {
+   "duplicate_of": "seoaudit",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/seo-audit"
+  },
+  {
+   "duplicate_of": "seocannibalizationdetector",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/seo-cannibalization-detector"
+  },
+  {
+   "duplicate_of": "seocontentauditor",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/seo-content-auditor"
+  },
+  {
+   "duplicate_of": "seocontentplanner",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/seo-content-planner"
+  },
+  {
+   "duplicate_of": "seocontentwriter",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/seo-content-writer"
+  },
+  {
+   "duplicate_of": "seofundamentals",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/seo-fundamentals"
+  },
+  {
+   "duplicate_of": "seostructurearchitect",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-marketing-seo-growth/skills/seo-structure-architect"
+  },
+  {
+   "duplicate_of": "appstoreoptimization",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/app-store-optimization"
+  },
+  {
+   "duplicate_of": "expoapiroutes",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/expo-api-routes"
+  },
+  {
+   "duplicate_of": "expocicdworkflows",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/expo-cicd-workflows"
+  },
+  {
+   "duplicate_of": "expodeployment",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/expo-deployment"
+  },
+  {
+   "duplicate_of": "expodevclient",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/expo-dev-client"
+  },
+  {
+   "duplicate_of": "expotailwindsetup",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/expo-tailwind-setup"
+  },
+  {
+   "duplicate_of": "flutterexpert",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/flutter-expert"
+  },
+  {
+   "duplicate_of": "frontendapiintegrationpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/frontend-api-integration-patterns"
+  },
+  {
+   "duplicate_of": "higcomponentslayout",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/hig-components-layout"
+  },
+  {
+   "duplicate_of": "higcomponentssystem",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/hig-components-system"
+  },
+  {
+   "duplicate_of": "higfoundations",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/hig-foundations"
+  },
+  {
+   "duplicate_of": "higinputs",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/hig-inputs"
+  },
+  {
+   "duplicate_of": "higpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/hig-patterns"
+  },
+  {
+   "duplicate_of": "higplatforms",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/hig-platforms"
+  },
+  {
+   "duplicate_of": "iosdeveloper",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/ios-developer"
+  },
+  {
+   "duplicate_of": "iosscreens",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/ios-screens"
+  },
+  {
+   "duplicate_of": "mobiledeveloper",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/mobile-developer"
+  },
+  {
+   "duplicate_of": "multiplatformappsmultiplatform",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/multi-platform-apps-multi-platform"
+  },
+  {
+   "duplicate_of": "reactnativearchitecture",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-mobile-app-builder/skills/react-native-architecture"
+  },
+  {
+   "duplicate_of": "aisreincidentresponse",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-observability-ir/skills/ai-sre-incident-response"
+  },
+  {
+   "duplicate_of": "devopstroubleshooter",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-observability-ir/skills/devops-troubleshooter"
+  },
+  {
+   "duplicate_of": "distributedtracing",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-observability-ir/skills/distributed-tracing"
+  },
+  {
+   "duplicate_of": "grafanadashboards",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-observability-ir/skills/grafana-dashboards"
+  },
+  {
+   "duplicate_of": "incidentresponder",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-observability-ir/skills/incident-responder"
+  },
+  {
+   "duplicate_of": "langfuse",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-observability-ir/skills/langfuse"
+  },
+  {
+   "duplicate_of": "observabilityandinstrumentation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-observability-ir/skills/observability-and-instrumentation"
+  },
+  {
+   "duplicate_of": "observabilityengineer",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-observability-ir/skills/observability-engineer"
+  },
+  {
+   "duplicate_of": "oncallhandoffpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-observability-ir/skills/on-call-handoff-patterns"
+  },
+  {
+   "duplicate_of": "performanceengineer",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-observability-ir/skills/performance-engineer"
+  },
+  {
+   "duplicate_of": "postmortemwriting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-observability-ir/skills/postmortem-writing"
+  },
+  {
+   "duplicate_of": "sloimplementation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-observability-ir/skills/slo-implementation"
+  },
+  {
+   "duplicate_of": "ccskillsecurityreview",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-privacy-compliance-engineering/skills/cc-skill-security-review"
+  },
+  {
+   "duplicate_of": "dataprivacycontrols",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-privacy-compliance-engineering/skills/data-privacy-controls"
+  },
+  {
+   "duplicate_of": "fsicompliancechecker",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-privacy-compliance-engineering/skills/fsi-compliance-checker"
+  },
+  {
+   "duplicate_of": "gdprdatahandling",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-privacy-compliance-engineering/skills/gdpr-data-handling"
+  },
+  {
+   "duplicate_of": "pcicompliance",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-privacy-compliance-engineering/skills/pci-compliance"
+  },
+  {
+   "duplicate_of": "privacybydesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-privacy-compliance-engineering/skills/privacy-by-design"
+  },
+  {
+   "duplicate_of": "apidesignprinciples",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-python-api-builder/skills/api-design-principles"
+  },
+  {
+   "duplicate_of": "apiratelimithandler",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-python-api-builder/skills/api-rate-limit-handler"
+  },
+  {
+   "duplicate_of": "apisecuritybestpractices",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-python-api-builder/skills/api-security-best-practices"
+  },
+  {
+   "duplicate_of": "asyncpythonpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-python-api-builder/skills/async-python-patterns"
+  },
+  {
+   "duplicate_of": "djangopro",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-python-api-builder/skills/django-pro"
+  },
+  {
+   "duplicate_of": "fastapipro",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-python-api-builder/skills/fastapi-pro"
+  },
+  {
+   "duplicate_of": "fastapitemplates",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-python-api-builder/skills/fastapi-templates"
+  },
+  {
+   "duplicate_of": "openapispecgeneration",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-python-api-builder/skills/openapi-spec-generation"
+  },
+  {
+   "duplicate_of": "pydanticmodelspy",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-python-api-builder/skills/pydantic-models-py"
+  },
+  {
+   "duplicate_of": "pythonpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-python-api-builder/skills/python-patterns"
+  },
+  {
+   "duplicate_of": "pythonpro",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-python-api-builder/skills/python-pro"
+  },
+  {
+   "duplicate_of": "pythontestingpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-python-api-builder/skills/python-testing-patterns"
+  },
+  {
+   "duplicate_of": "sqloptimizationpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-python-api-builder/skills/sql-optimization-patterns"
+  },
+  {
+   "duplicate_of": "apicontracttesting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-qa-test-automation/skills/api-contract-testing"
+  },
+  {
+   "duplicate_of": "browserautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-qa-test-automation/skills/browser-automation"
+  },
+  {
+   "duplicate_of": "cicdandautomation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-qa-test-automation/skills/ci-cd-and-automation"
+  },
+  {
+   "duplicate_of": "codereviewchecklist",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-qa-test-automation/skills/code-review-checklist"
+  },
+  {
+   "duplicate_of": "e2etestingpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-qa-test-automation/skills/e2e-testing-patterns"
+  },
+  {
+   "duplicate_of": "k6loadtesting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-qa-test-automation/skills/k6-load-testing"
+  },
+  {
+   "duplicate_of": "playwrightskill",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-qa-test-automation/skills/playwright-skill"
+  },
+  {
+   "duplicate_of": "pythontestingpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-qa-test-automation/skills/python-testing-patterns"
+  },
+  {
+   "duplicate_of": "screenreadertesting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-qa-test-automation/skills/screen-reader-testing"
+  },
+  {
+   "duplicate_of": "systematicdebugging",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-qa-test-automation/skills/systematic-debugging"
+  },
+  {
+   "duplicate_of": "testdrivendevelopment",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-qa-test-automation/skills/test-driven-development"
+  },
+  {
+   "duplicate_of": "testfixing",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-qa-test-automation/skills/test-fixing"
+  },
+  {
+   "duplicate_of": "testingpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-qa-test-automation/skills/testing-patterns"
+  },
+  {
+   "duplicate_of": "webapptesting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-qa-test-automation/skills/webapp-testing"
+  },
+  {
+   "duplicate_of": "analyticsproduct",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/analytics-product"
+  },
+  {
+   "duplicate_of": "competitivelandscape",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/competitive-landscape"
+  },
+  {
+   "duplicate_of": "competitoralternatives",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/competitor-alternatives"
+  },
+  {
+   "duplicate_of": "copywriting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/copywriting"
+  },
+  {
+   "duplicate_of": "emailsequence",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/email-sequence"
+  },
+  {
+   "duplicate_of": "launchstrategy",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/launch-strategy"
+  },
+  {
+   "duplicate_of": "microsaaslauncher",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/micro-saas-launcher"
+  },
+  {
+   "duplicate_of": "monetization",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/monetization"
+  },
+  {
+   "duplicate_of": "onboardingcro",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/onboarding-cro"
+  },
+  {
+   "duplicate_of": "pricingstrategy",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/pricing-strategy"
+  },
+  {
+   "duplicate_of": "productmanagertoolkit",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/product-manager-toolkit"
+  },
+  {
+   "duplicate_of": "productmarketingcontext",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/product-marketing-context"
+  },
+  {
+   "duplicate_of": "referralprogram",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/referral-program"
+  },
+  {
+   "duplicate_of": "saasmvplauncher",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/saas-mvp-launcher"
+  },
+  {
+   "duplicate_of": "seoaudit",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/seo-audit"
+  },
+  {
+   "duplicate_of": "stripeintegration",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/stripe-integration"
+  },
+  {
+   "duplicate_of": "usagebasedpricing",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-saas-launch-revenue/skills/usage-based-pricing"
+  },
+  {
+   "duplicate_of": "apisecuritybestpractices",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-secure-app-builder/skills/api-security-best-practices"
+  },
+  {
+   "duplicate_of": "authimplementationpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-secure-app-builder/skills/auth-implementation-patterns"
+  },
+  {
+   "duplicate_of": "backendsecuritycoder",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-secure-app-builder/skills/backend-security-coder"
+  },
+  {
+   "duplicate_of": "ccskillsecurityreview",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-secure-app-builder/skills/cc-skill-security-review"
+  },
+  {
+   "duplicate_of": "dependencymanagementdepsaudit",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-secure-app-builder/skills/dependency-management-deps-audit"
+  },
+  {
+   "duplicate_of": "djangoaccessreview",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-secure-app-builder/skills/django-access-review"
+  },
+  {
+   "duplicate_of": "frontendsecuritycoder",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-secure-app-builder/skills/frontend-security-coder"
+  },
+  {
+   "duplicate_of": "pcicompliance",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-secure-app-builder/skills/pci-compliance"
+  },
+  {
+   "duplicate_of": "sastconfiguration",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-secure-app-builder/skills/sast-configuration"
+  },
+  {
+   "duplicate_of": "secretsmanagement",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-secure-app-builder/skills/secrets-management"
+  },
+  {
+   "duplicate_of": "securityrequirementextraction",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-secure-app-builder/skills/security-requirement-extraction"
+  },
+  {
+   "duplicate_of": "threatmodelingexpert",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-secure-app-builder/skills/threat-modeling-expert"
+  },
+  {
+   "duplicate_of": "apisecuritytesting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-security-engineer/skills/api-security-testing"
+  },
+  {
+   "duplicate_of": "burpsuitetesting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-security-engineer/skills/burp-suite-testing"
+  },
+  {
+   "duplicate_of": "cloudpenetrationtesting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-security-engineer/skills/cloud-penetration-testing"
+  },
+  {
+   "duplicate_of": "ethicalhackingmethodology",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-security-engineer/skills/ethical-hacking-methodology"
+  },
+  {
+   "duplicate_of": "linuxprivilegeescalation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-security-engineer/skills/linux-privilege-escalation"
+  },
+  {
+   "duplicate_of": "sastconfiguration",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-security-engineer/skills/sast-configuration"
+  },
+  {
+   "duplicate_of": "securityauditor",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-security-engineer/skills/security-auditor"
+  },
+  {
+   "duplicate_of": "skillsecurityaudit",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-security-engineer/skills/skill-security-audit"
+  },
+  {
+   "duplicate_of": "threatmodelingexpert",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-security-engineer/skills/threat-modeling-expert"
+  },
+  {
+   "duplicate_of": "topwebvulnerabilities",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-security-engineer/skills/top-web-vulnerabilities"
+  },
+  {
+   "duplicate_of": "vulnerabilityscanner",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-security-engineer/skills/vulnerability-scanner"
+  },
+  {
+   "duplicate_of": "websecuritytesting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-aas-security-engineer/skills/web-security-testing"
+  },
+  {
+   "duplicate_of": "architecturedecisionrecords",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-architecture-design/skills/architecture-decision-records"
+  },
+  {
+   "duplicate_of": "architecturepatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-architecture-design/skills/architecture-patterns"
+  },
+  {
+   "duplicate_of": "cqrsimplementation",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-architecture-design/skills/cqrs-implementation"
+  },
+  {
+   "duplicate_of": "dddcontextmapping",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-architecture-design/skills/ddd-context-mapping"
+  },
+  {
+   "duplicate_of": "dddstrategicdesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-architecture-design/skills/ddd-strategic-design"
+  },
+  {
+   "duplicate_of": "dddtacticalpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-architecture-design/skills/ddd-tactical-patterns"
+  },
+  {
+   "duplicate_of": "domaindrivendesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-architecture-design/skills/domain-driven-design"
+  },
+  {
+   "duplicate_of": "eventsourcingarchitect",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-architecture-design/skills/event-sourcing-architect"
+  },
+  {
+   "duplicate_of": "eventstoredesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-architecture-design/skills/event-store-design"
+  },
+  {
+   "duplicate_of": "microservicespatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-architecture-design/skills/microservices-patterns"
+  },
+  {
+   "duplicate_of": "projectionpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-architecture-design/skills/projection-patterns"
+  },
+  {
+   "duplicate_of": "sagaorchestration",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-architecture-design/skills/saga-orchestration"
+  },
+  {
+   "duplicate_of": "seniorarchitect",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-architecture-design/skills/senior-architect"
+  },
+  {
+   "duplicate_of": "algoliasearch",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-commerce-payments/skills/algolia-search"
+  },
+  {
+   "duplicate_of": "apiintegration",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-commerce-payments/skills/api-integration"
+  },
+  {
+   "duplicate_of": "hubspotintegration",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-commerce-payments/skills/hubspot-integration"
+  },
+  {
+   "duplicate_of": "monetization",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-commerce-payments/skills/monetization"
+  },
+  {
+   "duplicate_of": "paypalintegration",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-commerce-payments/skills/paypal-integration"
+  },
+  {
+   "duplicate_of": "plaidfintech",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-commerce-payments/skills/plaid-fintech"
+  },
+  {
+   "duplicate_of": "stripeintegration",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-commerce-payments/skills/stripe-integration"
+  },
+  {
+   "duplicate_of": "twiliocommunications",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-commerce-payments/skills/twilio-communications"
+  },
+  {
+   "duplicate_of": "designhowbuilddesignsystem",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-how/skills/design-how-build-design-system"
+  },
+  {
+   "duplicate_of": "designhowcomponentdocs",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-how/skills/design-how-component-docs"
+  },
+  {
+   "duplicate_of": "designhowdesignsystemboss",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-how/skills/design-how-design-system-boss"
+  },
+  {
+   "duplicate_of": "designhowmakefont",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-how/skills/design-how-make-font"
+  },
+  {
+   "duplicate_of": "designhowmakelogo",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-how/skills/design-how-make-logo"
+  },
+  {
+   "duplicate_of": "designhowmakemotion",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-how/skills/design-how-make-motion"
+  },
+  {
+   "duplicate_of": "designhowmigratedesignsystem",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-how/skills/design-how-migrate-design-system"
+  },
+  {
+   "duplicate_of": "designhowtokenmapping",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-how/skills/design-how-token-mapping"
+  },
+  {
+   "duplicate_of": "designhowuireview",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-how/skills/design-how-ui-review"
+  },
+  {
+   "duplicate_of": "3dwebexperience",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/3d-web-experience"
+  },
+  {
+   "duplicate_of": "accessibilitycomplianceaccessibilityaudit",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/accessibility-compliance-accessibility-audit"
+  },
+  {
+   "duplicate_of": "algorithmicart",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/algorithmic-art"
+  },
+  {
+   "duplicate_of": "canvasdesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/canvas-design"
+  },
+  {
+   "duplicate_of": "contentcreator",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/content-creator"
+  },
+  {
+   "duplicate_of": "copyediting",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/copy-editing"
+  },
+  {
+   "duplicate_of": "frontenddesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/frontend-design"
+  },
+  {
+   "duplicate_of": "highendvisualdesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/high-end-visual-design"
+  },
+  {
+   "duplicate_of": "interactiveportfolio",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/interactive-portfolio"
+  },
+  {
+   "duplicate_of": "mobiledesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/mobile-design"
+  },
+  {
+   "duplicate_of": "scrollexperience",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/scroll-experience"
+  },
+  {
+   "duplicate_of": "uia11y",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/ui-a11y"
+  },
+  {
+   "duplicate_of": "uifromscreenshot",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/ui-from-screenshot"
+  },
+  {
+   "duplicate_of": "uireview",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/ui-review"
+  },
+  {
+   "duplicate_of": "uistates",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/ui-states"
+  },
+  {
+   "duplicate_of": "uiuxpromax",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/ui-ux-pro-max"
+  },
+  {
+   "duplicate_of": "writedesignmd",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-design-studio/skills/write-design-md"
+  },
+  {
+   "duplicate_of": "conciseplanning",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-essentials/skills/concise-planning"
+  },
+  {
+   "duplicate_of": "gitpushing",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-essentials/skills/git-pushing"
+  },
+  {
+   "duplicate_of": "lintandvalidate",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-essentials/skills/lint-and-validate"
+  },
+  {
+   "duplicate_of": "systematicdebugging",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-essentials/skills/systematic-debugging"
+  },
+  {
+   "duplicate_of": "testdrivendevelopment",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-essentials/skills/test-driven-development"
+  },
+  {
+   "duplicate_of": "2dgames",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-indie-game-dev/skills/2d-games"
+  },
+  {
+   "duplicate_of": "3dgames",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-indie-game-dev/skills/3d-games"
+  },
+  {
+   "duplicate_of": "algorithmicart",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-indie-game-dev/skills/algorithmic-art"
+  },
+  {
+   "duplicate_of": "gameaudio",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-indie-game-dev/skills/game-audio"
+  },
+  {
+   "duplicate_of": "gamedesign",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-indie-game-dev/skills/game-design"
+  },
+  {
+   "duplicate_of": "godotgdscriptpatterns",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-indie-game-dev/skills/godot-gdscript-patterns"
+  },
+  {
+   "duplicate_of": "unitydeveloper",
+   "reason": "same-normalized-name",
+   "repo": "sickn33/agentic-awesome-skills",
+   "path": "plugins/aasb-indie-game-dev/skills/unity-developer"
+  }
+ ]
+}
