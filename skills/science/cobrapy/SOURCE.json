@@ -1,0 +1,19 @@
+{
+ "name": "cobrapy",
+ "slug": "cobrapy",
+ "format": "agent-skill",
+ "category": "science",
+ "subcategory": "Scientific Analysis",
+ "description": "Performs constraint-based metabolic modeling with COBRApy, including FBA, pFBA, FVA, gene knockouts, flux sampling, growth media, production envelopes, gap filling, and SBML model validation for systems biology and metabolic engineering.",
+ "source_repo": "K-Dense-AI/scientific-agent-skills",
+ "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/cobrapy",
+ "source_commit": "c21d13b3cc2894680229ba9959a53281acb9200e",
+ "source_commit_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/c21d13b3cc2894680229ba9959a53281acb9200e/skills/cobrapy",
+ "author": "K-Dense-AI",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#cobrapy"
+}

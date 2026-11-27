@@ -1,0 +1,19 @@
+{
+ "name": "receipts",
+ "slug": "receipts",
+ "format": "agent-skill",
+ "category": "documents",
+ "subcategory": "Report Generation",
+ "description": "Generate a personal Claude Code usage & impact report (\"receipts\") from this machine's local session transcripts — for justifying Claude Code usage/spend to a manager, self-review, or \"what have I been using this for\" check-ins. Mines ~/.claude/projects locally (no extra API calls beyond one final write-up), cross-references local git history, and writes a markdown report plus a self-contained HTML receipt to your home directory. Use when the user asks for \"receipts\", an \"impact report\", \"usage report\", wants to \"show my Claude Code activity\", \"prove the value of Claude Code\", or runs `/receipts`.",
+ "source_repo": "anthropics/claude-plugins-official",
+ "source_url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/receipts/skills/receipts",
+ "source_commit": "0fbfda5a91f4adc311daca25acc99132f40f0b6e",
+ "source_commit_url": "https://github.com/anthropics/claude-plugins-official/tree/0fbfda5a91f4adc311daca25acc99132f40f0b6e/plugins/receipts/skills/receipts",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#receipts"
+}

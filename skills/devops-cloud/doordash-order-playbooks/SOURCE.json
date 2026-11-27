@@ -1,0 +1,19 @@
+{
+ "name": "doordash-order-playbooks",
+ "slug": "doordashorderplaybooks",
+ "format": "agent-skill",
+ "category": "devops-cloud",
+ "subcategory": "Deployment",
+ "description": "Named, context-bound saved DoorDash orders (\"post-gym\", \"late-night deploy\") recalled through the DoorDash CLI (dd-cli) with a mandatory cart-diff before any checkout link is handed over. Use when the user names a saved order (\"order my post-gym bowl\", \"the usual\", \"my Friday ramen\"), wants to save the order they just placed as a playbook, or asks to list/remove saved orders. Persists name→order-uuid playbooks across sessions, catches silent menu/price drift on every recall, and self-heals stale playbooks when a restaurant's menu changes. Requires dd-cli (macOS Apple Silicon, waitlist-gated).",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/doordash/doordash-order-playbooks",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/doordash/doordash-order-playbooks",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#doordashorderplaybooks"
+}

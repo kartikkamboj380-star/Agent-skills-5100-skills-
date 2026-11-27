@@ -1,0 +1,19 @@
+{
+ "name": "qdrant-memory-usage-optimization",
+ "slug": "qdrantmemoryusageoptimization",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "Model Quantization",
+ "description": "Diagnoses and reduces Qdrant memory usage. Use when someone reports 'memory too high', 'RAM keeps growing', 'node crashed', 'out of memory', 'memory leak', or asks 'why is memory usage so high?', 'how to reduce RAM?'. Also use when memory doesn't match calculations, quantization didn't help, or nodes crash during recovery.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/qdrant-performance-optimization/memory-usage-optimization",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/qdrant-performance-optimization/memory-usage-optimization",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#qdrantmemoryusageoptimization"
+}

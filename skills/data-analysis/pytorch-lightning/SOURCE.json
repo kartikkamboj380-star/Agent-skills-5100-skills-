@@ -1,0 +1,19 @@
+{
+ "name": "pytorch-lightning",
+ "slug": "pytorchlightning",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "Data Science",
+ "description": "Deep learning framework (PyTorch Lightning / lightning package). Organize PyTorch code into LightningModules, configure Trainers for multi-GPU/TPU, implement data pipelines, callbacks, logging (W&B, TensorBoard, MLflow), distributed training (DDP, FSDP, DeepSpeed), for scalable neural network training.",
+ "source_repo": "K-Dense-AI/scientific-agent-skills",
+ "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/pytorch-lightning",
+ "source_commit": "c21d13b3cc2894680229ba9959a53281acb9200e",
+ "source_commit_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/c21d13b3cc2894680229ba9959a53281acb9200e/skills/pytorch-lightning",
+ "author": "K-Dense-AI",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#pytorchlightning"
+}

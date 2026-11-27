@@ -1,0 +1,19 @@
+{
+ "name": "power-bi-dax-optimization",
+ "slug": "powerbidaxoptimization",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "Business Intelligence",
+ "description": "Comprehensive Power BI DAX formula optimization prompt for improving performance, readability, and maintainability of DAX calculations.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/power-bi-dax-optimization",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/power-bi-dax-optimization",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#powerbidaxoptimization"
+}

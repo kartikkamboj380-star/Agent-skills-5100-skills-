@@ -1,0 +1,19 @@
+{
+ "name": "qdrant-search-strategies",
+ "slug": "qdrantsearchstrategies",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Guides Qdrant search strategy selection. Use when someone asks 'should I use hybrid search?', 'BM25 or sparse vectors?', 'how to rerank?', 'results are not relevant', 'I don't get needed results from my dataset but they're there', 'retrieval quality is not good enough', 'results too similar', 'need diversity', 'MMR', 'relevance feedback', 'recommendation API', 'discovery API', 'ColBERT reranking', or 'missing keyword matches",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/qdrant-search-quality/search-strategies",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/qdrant-search-quality/search-strategies",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#qdrantsearchstrategies"
+}

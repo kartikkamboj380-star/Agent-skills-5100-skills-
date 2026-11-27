@@ -1,0 +1,19 @@
+{
+ "name": "setup-ts-deep-modules",
+ "slug": "setuptsdeepmodules",
+ "format": "agent-skill",
+ "category": "coding",
+ "subcategory": "JavaScript",
+ "description": "Wire dependency-cruiser into a TypeScript repo so each package is a deep module, with implementation hidden in subfolders and reachable only through its entry-point files. User-invoked.",
+ "source_repo": "mattpocock/skills",
+ "source_url": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/setup-ts-deep-modules",
+ "source_commit": "6f7f7831a625f040a8e06a0e7954826b87ce775a",
+ "source_commit_url": "https://github.com/mattpocock/skills/tree/6f7f7831a625f040a8e06a0e7954826b87ce775a/skills/in-progress/setup-ts-deep-modules",
+ "author": "mattpocock",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#setuptsdeepmodules"
+}

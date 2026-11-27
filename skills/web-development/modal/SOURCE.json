@@ -1,0 +1,19 @@
+{
+ "name": "modal",
+ "slug": "modal",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "CSS",
+ "description": "Modal is a serverless cloud platform for running Python on demand, including on-demand GPUs. Use when deploying or serving AI/ML models, running GPU-accelerated workloads (training, fine-tuning, inference), serving web endpoints, scheduling batch jobs, or scaling Python code to cloud containers with the Modal SDK.",
+ "source_repo": "K-Dense-AI/scientific-agent-skills",
+ "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/modal",
+ "source_commit": "c21d13b3cc2894680229ba9959a53281acb9200e",
+ "source_commit_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/c21d13b3cc2894680229ba9959a53281acb9200e/skills/modal",
+ "author": "K-Dense-AI",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#modal"
+}

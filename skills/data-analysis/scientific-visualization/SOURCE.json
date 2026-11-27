@@ -1,0 +1,19 @@
+{
+ "name": "scientific-visualization",
+ "slug": "scientificvisualization",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "Data Visualization",
+ "description": "Creates and audits truthful, accessible, publication-ready scientific figures with Matplotlib, Seaborn, or Plotly. Use it for figure design, multi-panel layouts, uncertainty and missing-data displays, color/contrast review, image metadata validation, and journal export planning.",
+ "source_repo": "K-Dense-AI/scientific-agent-skills",
+ "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/scientific-visualization",
+ "source_commit": "c21d13b3cc2894680229ba9959a53281acb9200e",
+ "source_commit_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/c21d13b3cc2894680229ba9959a53281acb9200e/skills/scientific-visualization",
+ "author": "K-Dense-AI",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#scientificvisualization"
+}

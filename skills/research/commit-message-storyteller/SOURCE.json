@@ -1,0 +1,19 @@
+{
+ "name": "commit-message-storyteller",
+ "slug": "commitmessagestoryteller",
+ "format": "agent-skill",
+ "category": "research",
+ "subcategory": "Document Summarization",
+ "description": "Analyzes git diffs or staged changes and generates narrative commit messages that explain WHY a change was made, not just what changed — following Conventional Commits format. Use when asked to \"write a commit message\", \"describe my changes\", \"what should I commit this as\", or \"summarize my diff\". Works with git diff output, staged files, or plain descriptions of changes. Does not run git commit; to stage files and make the commit, use the git-commit skill.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/commit-message-storyteller",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/commit-message-storyteller",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#commitmessagestoryteller"
+}

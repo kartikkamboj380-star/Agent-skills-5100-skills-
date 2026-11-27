@@ -1,0 +1,19 @@
+{
+ "name": "emerging-techniques-model-merging",
+ "slug": "emergingtechniquesmodelmerging",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "Model Fine-Tuning",
+ "description": "Merge multiple fine-tuned models using mergekit to combine capabilities without retraining. Use when creating specialized models by blending domain-specific expertise (math + coding + chat), improving performance beyond single models, or experimenting rapidly with model variants. Covers SLERP, TIES-Merging, DARE, Task Arithmetic, linear merging, and production deployment strategies.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/emerging-techniques-model-merging",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/ai-research/emerging-techniques-model-merging",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#emergingtechniquesmodelmerging"
+}

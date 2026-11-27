@@ -1,0 +1,19 @@
+{
+ "name": "brainstorming",
+ "slug": "brainstorming",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "You MUST use this before any creative work - creating features, building components, adding functionality, modifying behavior, or planning anything new, in software or out of it (a talk, a business, a renovation).",
+ "source_repo": "obra/superpowers",
+ "source_url": "https://github.com/obra/superpowers/tree/main/skills/brainstorming",
+ "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+ "source_commit_url": "https://github.com/obra/superpowers/tree/22f0b463e7a5e579904dd6211a520321035526f7/skills/brainstorming",
+ "author": "obra",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#brainstorming"
+}

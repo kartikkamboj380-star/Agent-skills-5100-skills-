@@ -1,0 +1,19 @@
+{
+ "name": "python-anti-patterns",
+ "slug": "pythonantipatterns",
+ "format": "agent-skill",
+ "category": "coding",
+ "subcategory": "Debugging",
+ "description": "Use this skill when reviewing Python code for common anti-patterns to avoid. Use as a checklist when reviewing code, before finalizing implementations, or when debugging issues that might stem from known bad practices.",
+ "source_repo": "wshobson/agents",
+ "source_url": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-anti-patterns",
+ "source_commit": "c96b5f6552dba32e4492307493ee613581430715",
+ "source_commit_url": "https://github.com/wshobson/agents/tree/c96b5f6552dba32e4492307493ee613581430715/plugins/python-development/skills/python-anti-patterns",
+ "author": "wshobson",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#pythonantipatterns"
+}

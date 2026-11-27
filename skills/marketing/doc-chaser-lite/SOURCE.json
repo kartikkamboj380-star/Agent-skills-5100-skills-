@@ -1,0 +1,19 @@
+{
+ "name": "doc-chaser-lite",
+ "slug": "docchaserlite",
+ "format": "agent-skill",
+ "category": "marketing",
+ "subcategory": "Conversion Optimization",
+ "description": "Free lite skill — drafts one friendly (level-1) client document-request email for a single tax client from a short brief plus the practice profile. A strict subset of client-doc-chaser (no batch, no escalation levels 2/3), carrying the pack's full guard. Use to try the kit before buying, or as the directory-published funnel skill. Triggers - \"client document request email\", \"chase a client's documents\", \"free document request writer\", \"doc-chaser-lite\".",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/doc-chaser-lite",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/productivity/doc-chaser-lite",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "skill",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#docchaserlite"
+}

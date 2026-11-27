@@ -1,0 +1,19 @@
+{
+ "name": "cloud-monitoring-metric-selection",
+ "slug": "cloudmonitoringmetricselection",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "SQL",
+ "description": "Retrieve, query, and identify relevant Cloud Monitoring metric descriptors on Google Cloud for a service or resource (such as Compute Engine, Spanner, BigQuery, Cloud Run, Cloud SQL, Pub/Sub, Cloud Storage, etc.). Use when asked to find, list, search, or discover GCP metric types, names, kind/value schemas, or descriptors.",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/cloud-monitoring-metric-selection",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/cloud-monitoring-metric-selection",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#cloudmonitoringmetricselection"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "astropy",
+ "slug": "astropy",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "Data Science",
+ "description": "Core Python library for astronomy and astrophysics workflows that need Astropy APIs, including units/quantities, coordinates, FITS I/O, tables, time systems, WCS, and cosmology. Use when implementing or debugging astronomical data analysis code with Astropy.",
+ "source_repo": "K-Dense-AI/scientific-agent-skills",
+ "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/astropy",
+ "source_commit": "c21d13b3cc2894680229ba9959a53281acb9200e",
+ "source_commit_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/c21d13b3cc2894680229ba9959a53281acb9200e/skills/astropy",
+ "author": "K-Dense-AI",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#astropy"
+}

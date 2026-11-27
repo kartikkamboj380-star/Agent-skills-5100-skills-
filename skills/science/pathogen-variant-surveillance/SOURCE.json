@@ -1,0 +1,19 @@
+{
+ "name": "pathogen-variant-surveillance",
+ "slug": "pathogenvariantsurveillance",
+ "format": "agent-skill",
+ "category": "science",
+ "subcategory": "Bioinformatics",
+ "description": "Queries public GenSpectrum LAPIS data for pathogen genomic surveillance, current lineage nomenclature, weekly sequence proportions, reporting delays, and descriptive mutation frequencies. Use for variant surveillance, Pango lineage validation, dominant submitted lineages, Nextclade assignment provenance, SARS-CoV-2, influenza/H5N1 clades, RSV, mpox, measles, dengue, or LAPIS queries. Distinguishes sequence prevalence from infection prevalence, clades from genotypes, missing calls from reference matches, and sampling changes from biological growth advantage.",
+ "source_repo": "K-Dense-AI/scientific-agent-skills",
+ "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/pathogen-variant-surveillance",
+ "source_commit": "c21d13b3cc2894680229ba9959a53281acb9200e",
+ "source_commit_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/c21d13b3cc2894680229ba9959a53281acb9200e/skills/pathogen-variant-surveillance",
+ "author": "K-Dense-AI",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#pathogenvariantsurveillance"
+}

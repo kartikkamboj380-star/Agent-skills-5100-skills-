@@ -1,0 +1,19 @@
+{
+ "name": "web-artifacts-builder",
+ "slug": "webartifactsbuilder",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "React",
+ "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+ "source_repo": "anthropics/skills",
+ "source_url": "https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder",
+ "source_commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+ "source_commit_url": "https://github.com/anthropics/skills/tree/e4bb5d960d87126ff3b3a8af1a104b7db67560ba/skills/web-artifacts-builder",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "skill",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#webartifactsbuilder"
+}

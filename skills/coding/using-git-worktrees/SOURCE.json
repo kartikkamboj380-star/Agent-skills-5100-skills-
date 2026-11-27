@@ -1,0 +1,19 @@
+{
+ "name": "using-git-worktrees",
+ "slug": "usinggitworktrees",
+ "format": "agent-skill",
+ "category": "coding",
+ "subcategory": "Version Control",
+ "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - ensures an isolated workspace exists via native tools or git worktree fallback",
+ "source_repo": "obra/superpowers",
+ "source_url": "https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees",
+ "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+ "source_commit_url": "https://github.com/obra/superpowers/tree/22f0b463e7a5e579904dd6211a520321035526f7/skills/using-git-worktrees",
+ "author": "obra",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#usinggitworktrees"
+}

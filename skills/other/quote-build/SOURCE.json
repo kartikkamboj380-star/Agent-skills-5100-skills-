@@ -1,0 +1,19 @@
+{
+ "name": "quote-build",
+ "slug": "quotebuild",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Produces the make-to-order quote from the intake form, comparable prior jobs and cost history, with every number traced to where it came from — material at the price actually paid on a named purchase order, machine hours per operation from a labelled ladder (current routing, closed-job actuals, the confirmed design, first principles) with setup and run kept apart, setup re-amortized at each quantity break, and margin on its own line. Checks the promised date against real shop load before committing to it. Revises in place when a customer counters, preserving what changed and why. Use when someone says \\\"build the quote,\\\" \\\"price this job,\\\" \\\"what should we charge,\\\" \\\"quote this RFQ,\\\" or \\\"the customer came back on price.\\",
+ "source_repo": "anthropics/claude-plugins-official",
+ "source_url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-for-manufacturing/skills/quote-build",
+ "source_commit": "0fbfda5a91f4adc311daca25acc99132f40f0b6e",
+ "source_commit_url": "https://github.com/anthropics/claude-plugins-official/tree/0fbfda5a91f4adc311daca25acc99132f40f0b6e/plugins/claude-for-manufacturing/skills/quote-build",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#quotebuild"
+}

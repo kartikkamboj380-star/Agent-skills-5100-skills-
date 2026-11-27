@@ -1,0 +1,19 @@
+{
+ "name": "cardputer-buddy",
+ "slug": "cardputerbuddy",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Iterate on the Cardputer-Adv MicroPython app bundle (Claude Buddy, Snake, Hello) after the device is already provisioned via m5-onboard. Use when the user wants to add a new app, push a single changed .py without re-flashing, watch device serial logs, or run a one-shot REPL command. Trigger on \"add an app\", \"push to the cardputer\", \"tail the device\", \"run on the device\", or follow-up work after /maker-setup.",
+ "source_repo": "anthropics/claude-plugins-official",
+ "source_url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/cwc-makers/skills/cardputer-buddy",
+ "source_commit": "0fbfda5a91f4adc311daca25acc99132f40f0b6e",
+ "source_commit_url": "https://github.com/anthropics/claude-plugins-official/tree/0fbfda5a91f4adc311daca25acc99132f40f0b6e/plugins/cwc-makers/skills/cardputer-buddy",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#cardputerbuddy"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "scvi-tools",
+ "slug": "scvitools",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "Model Fine-Tuning",
+ "description": "Fits probabilistic models for single-cell omics, including scVI batch integration, scANVI annotation, totalVI CITE-seq, MultiVI RNA/ATAC integration, and posterior differential expression. Use for generative modeling, reference mapping, multimodal analysis, or model-based uncertainty; use scanpy for standard preprocessing and exploratory analysis.",
+ "source_repo": "K-Dense-AI/scientific-agent-skills",
+ "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/scvi-tools",
+ "source_commit": "c21d13b3cc2894680229ba9959a53281acb9200e",
+ "source_commit_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/c21d13b3cc2894680229ba9959a53281acb9200e/skills/scvi-tools",
+ "author": "K-Dense-AI",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#scvitools"
+}

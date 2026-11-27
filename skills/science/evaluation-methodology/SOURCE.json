@@ -1,0 +1,19 @@
+{
+ "name": "evaluation-methodology",
+ "slug": "evaluationmethodology",
+ "format": "agent-skill",
+ "category": "science",
+ "subcategory": "Bioinformatics",
+ "description": "PluginEval quality methodology, covering dimensions, rubrics, and scoring formulas. Use this skill when understanding how plugin quality is measured, when interpreting a low score on a specific dimension, when deciding how to improve a skill's triggering accuracy or orchestration fitness, when setting score thresholds for your marketplace, or when explaining quality badges to external partners like Neon.",
+ "source_repo": "wshobson/agents",
+ "source_url": "https://github.com/wshobson/agents/tree/main/plugins/plugin-eval/skills/evaluation-methodology",
+ "source_commit": "c96b5f6552dba32e4492307493ee613581430715",
+ "source_commit_url": "https://github.com/wshobson/agents/tree/c96b5f6552dba32e4492307493ee613581430715/plugins/plugin-eval/skills/evaluation-methodology",
+ "author": "wshobson",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#evaluationmethodology"
+}

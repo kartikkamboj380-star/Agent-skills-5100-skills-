@@ -1,0 +1,19 @@
+{
+ "name": "gke-workload-troubleshooting",
+ "slug": "gkeworkloadtroubleshooting",
+ "format": "agent-skill",
+ "category": "devops-cloud",
+ "subcategory": "Containers",
+ "description": "Diagnoses GKE workload failures (CrashLoopBackOff, OOMKilled, ImagePullBackOff, Pending, etc.) via logs and events. Use when pods fail to start or crash repeatedly. Don't use for GKE cluster infrastructure provisioning, node pool creation, or non-Kubernetes Google Cloud services.",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/gke-workload-troubleshooting",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/gke-workload-troubleshooting",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#gkeworkloadtroubleshooting"
+}

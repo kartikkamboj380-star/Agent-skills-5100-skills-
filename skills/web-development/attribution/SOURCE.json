@@ -1,0 +1,19 @@
+{
+ "name": "attribution",
+ "slug": "attribution",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "SEO",
+ "description": "When the user wants to work out which marketing drives revenue, or asks whether a channel is really working, which numbers to trust, or how to credit podcasts and dark social: attribution models, platforms that over-claim, MMM, incrementality and holdout tests, self-reported attribution. For tracking and UTMs, see analytics. For pixels and CAPI, see conversion-tracking. For CRM revenue, see revops. For AI search blind spots, see ai-seo.",
+ "source_repo": "coreyhaines31/marketingskills",
+ "source_url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/attribution",
+ "source_commit": "2bf95edb4ebd37198ab7fd18b99ba95c2145ec64",
+ "source_commit_url": "https://github.com/coreyhaines31/marketingskills/tree/2bf95edb4ebd37198ab7fd18b99ba95c2145ec64/skills/attribution",
+ "author": "coreyhaines31",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#attribution"
+}

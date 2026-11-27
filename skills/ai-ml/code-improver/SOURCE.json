@@ -1,0 +1,19 @@
+{
+ "name": "code-improver",
+ "slug": "codeimprover",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "Skill Engineering",
+ "description": "Runs an autonomous review-and-fix improvement loop over any code target — a skill, plugin, module, or directory — using a reviewer the user names: any installed skill or agent. Keeps a cross-round findings ledger, escalates when fixes stop converging, and guards scope mechanically. Use when asked to 'improve this code until review passes', 'run an improvement loop with <reviewer>', or to iterate review-and-fix with a specific reviewer. For skills prefer the skill-improver entry; for a branch prefer pr-improver.",
+ "source_repo": "trailofbits/skills",
+ "source_url": "https://github.com/trailofbits/skills/tree/main/plugins/code-improver/skills/code-improver",
+ "source_commit": "149d7b21f4067765b82e67029730b42d228ef4b4",
+ "source_commit_url": "https://github.com/trailofbits/skills/tree/149d7b21f4067765b82e67029730b42d228ef4b4/plugins/code-improver/skills/code-improver",
+ "author": "trailofbits",
+ "license": "CC-BY-SA-4.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#codeimprover"
+}

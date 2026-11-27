@@ -1,0 +1,19 @@
+{
+ "name": "excel-analysis",
+ "slug": "excelanalysis",
+ "format": "agent-skill",
+ "category": "documents",
+ "subcategory": "XLSX",
+ "description": "Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. Use when analyzing Excel files, spreadsheets, tabular data, or .xlsx files.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/excel-analysis",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/enterprise-communication/excel-analysis",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#excelanalysis"
+}

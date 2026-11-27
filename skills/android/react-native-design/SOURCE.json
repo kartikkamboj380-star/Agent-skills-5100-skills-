@@ -1,0 +1,19 @@
+{
+ "name": "react-native-design",
+ "slug": "reactnativedesign",
+ "format": "agent-skill",
+ "category": "android",
+ "subcategory": "React Native",
+ "description": "Master React Native styling, navigation, and Reanimated animations for cross-platform mobile development. Use when building React Native apps, implementing navigation patterns, or creating performant animations.",
+ "source_repo": "wshobson/agents",
+ "source_url": "https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/react-native-design",
+ "source_commit": "c96b5f6552dba32e4492307493ee613581430715",
+ "source_commit_url": "https://github.com/wshobson/agents/tree/c96b5f6552dba32e4492307493ee613581430715/plugins/ui-design/skills/react-native-design",
+ "author": "wshobson",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#reactnativedesign"
+}

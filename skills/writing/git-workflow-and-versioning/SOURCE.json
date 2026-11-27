@@ -1,0 +1,19 @@
+{
+ "name": "git-workflow-and-versioning",
+ "slug": "gitworkflowandversioning",
+ "format": "agent-skill",
+ "category": "writing",
+ "subcategory": "Technical Writing",
+ "description": "Structures git workflow practices. Use when making any code change. Use when committing, branching, resolving conflicts, splitting uncommitted work in a messy working tree into clean atomic commits, opening or reviewing a pull request (PR), pushing to a remote, or when you need to organize work across multiple parallel streams. Use when cutting a release, choosing a semantic version bump, tagging, or writing a changelog. Use when asked to write a commit message or a changelog entry for a change, or to split a change into commits, even when the diff is pasted inline and the message seems easy to write from it.",
+ "source_repo": "addyosmani/agent-skills",
+ "source_url": "https://github.com/addyosmani/agent-skills/tree/main/skills/git-workflow-and-versioning",
+ "source_commit": "e997ac5b9a74eab332d5e9793bb38a38c8cfdd74",
+ "source_commit_url": "https://github.com/addyosmani/agent-skills/tree/e997ac5b9a74eab332d5e9793bb38a38c8cfdd74/skills/git-workflow-and-versioning",
+ "author": "addyosmani",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#gitworkflowandversioning"
+}

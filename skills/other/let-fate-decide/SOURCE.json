@@ -1,0 +1,19 @@
+{
+ "name": "let-fate-decide",
+ "slug": "letfatedecide",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Draws the 12 Houses of the Zodiac Tarot spread to inject entropy into planning when prompts are vague, ambiguous, or casually delegated. Interprets the spread to guide next steps. Use when the user says 'let fate decide', 'YOLO', 'whatever', 'idk', or other nonchalant phrases, makes Yu-Gi-Oh references, or when you are about to arbitrarily pick between multiple reasonable approaches. Prefer over asking clarifying questions when the user's tone is casual or playful rather than precision-seeking.",
+ "source_repo": "trailofbits/skills",
+ "source_url": "https://github.com/trailofbits/skills/tree/main/plugins/let-fate-decide/skills/let-fate-decide",
+ "source_commit": "149d7b21f4067765b82e67029730b42d228ef4b4",
+ "source_commit_url": "https://github.com/trailofbits/skills/tree/149d7b21f4067765b82e67029730b42d228ef4b4/plugins/let-fate-decide/skills/let-fate-decide",
+ "author": "trailofbits",
+ "license": "CC-BY-SA-4.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#letfatedecide"
+}

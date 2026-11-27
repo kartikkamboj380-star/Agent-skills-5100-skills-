@@ -1,0 +1,19 @@
+{
+ "name": "bench-read",
+ "slug": "benchread",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Read artifacts from the shared bench — the workspace where desks leave findings, verdicts, and work products for each other and the operator.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/bench-read",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/bench-read",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#benchread"
+}

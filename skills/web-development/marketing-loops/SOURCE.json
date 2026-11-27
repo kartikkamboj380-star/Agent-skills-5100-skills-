@@ -1,0 +1,19 @@
+{
+ "name": "marketing-loops",
+ "slug": "marketingloops",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "SEO",
+ "description": "When the user wants a recurring marketing job an AI agent runs on a cadence or trigger, or asks what a weekly or daily automated check should do, remember, and when it should stop: SEO and ads checks, churn watches, outbound triage. For one-off ideas, see marketing-ideas. For the test loop, see ab-testing.",
+ "source_repo": "coreyhaines31/marketingskills",
+ "source_url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-loops",
+ "source_commit": "2bf95edb4ebd37198ab7fd18b99ba95c2145ec64",
+ "source_commit_url": "https://github.com/coreyhaines31/marketingskills/tree/2bf95edb4ebd37198ab7fd18b99ba95c2145ec64/skills/marketing-loops",
+ "author": "coreyhaines31",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#marketingloops"
+}

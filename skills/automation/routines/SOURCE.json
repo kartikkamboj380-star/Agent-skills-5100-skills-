@@ -1,0 +1,19 @@
+{
+ "name": "routines",
+ "slug": "routines",
+ "format": "agent-skill",
+ "category": "automation",
+ "subcategory": "Workflow Automation",
+ "description": "Set up recurring champion routines as Claude Code scheduled tasks. Use when a champion wants work like a weekly patterns digest, a stale guidance check, or a monthly lead update to happen without kicking it off by hand.",
+ "source_repo": "anthropics/claude-plugins-official",
+ "source_url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/champion-kit/skills/routines",
+ "source_commit": "0fbfda5a91f4adc311daca25acc99132f40f0b6e",
+ "source_commit_url": "https://github.com/anthropics/claude-plugins-official/tree/0fbfda5a91f4adc311daca25acc99132f40f0b6e/plugins/champion-kit/skills/routines",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#routines"
+}

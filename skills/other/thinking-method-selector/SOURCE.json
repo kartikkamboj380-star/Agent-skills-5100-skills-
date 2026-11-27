@@ -1,0 +1,19 @@
+{
+ "name": "thinking-method-selector",
+ "slug": "thinkingmethodselector",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Use when the user describes a problem, decision or stuck situation but names no method: \"how should I approach this?\", \"help me think this through\", \"we can't decide\", \"where do I start?\". Picks the best-fit thinking method and runs it. Skip for plain execution tasks or when a method is named.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/thinking-method-selector",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/productivity/thinking-method-selector",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#thinkingmethodselector"
+}

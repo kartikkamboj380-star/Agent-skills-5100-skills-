@@ -1,0 +1,19 @@
+{
+ "name": "creating-oracle-to-postgres-master-migration-plan",
+ "slug": "creatingoracletopostgresmastermigrationplan",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "SQL",
+ "description": "Discovers all projects in a .NET solution, classifies each for Oracle-to-PostgreSQL migration eligibility, and produces a persistent master migration plan. Use when starting a multi-project Oracle-to-PostgreSQL migration, creating a migration inventory, or assessing which .NET projects contain Oracle dependencies.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/creating-oracle-to-postgres-master-migration-plan",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/creating-oracle-to-postgres-master-migration-plan",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#creatingoracletopostgresmastermigrationplan"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "writing-skills",
+ "slug": "writingskills",
+ "format": "agent-skill",
+ "category": "devops-cloud",
+ "subcategory": "Deployment",
+ "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+ "source_repo": "obra/superpowers",
+ "source_url": "https://github.com/obra/superpowers/tree/main/skills/writing-skills",
+ "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+ "source_commit_url": "https://github.com/obra/superpowers/tree/22f0b463e7a5e579904dd6211a520321035526f7/skills/writing-skills",
+ "author": "obra",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#writingskills"
+}

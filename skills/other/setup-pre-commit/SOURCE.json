@@ -1,0 +1,19 @@
+{
+ "name": "setup-pre-commit",
+ "slug": "setupprecommit",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Set up Husky pre-commit hooks with lint-staged (Prettier), type checking, and tests in the current repo. Use when user wants to add pre-commit hooks, set up Husky, configure lint-staged, or add commit-time formatting/typechecking/testing.",
+ "source_repo": "mattpocock/skills",
+ "source_url": "https://github.com/mattpocock/skills/tree/main/skills/misc/setup-pre-commit",
+ "source_commit": "6f7f7831a625f040a8e06a0e7954826b87ce775a",
+ "source_commit_url": "https://github.com/mattpocock/skills/tree/6f7f7831a625f040a8e06a0e7954826b87ce775a/skills/misc/setup-pre-commit",
+ "author": "mattpocock",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#setupprecommit"
+}

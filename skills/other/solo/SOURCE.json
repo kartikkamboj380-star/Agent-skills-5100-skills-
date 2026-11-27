@@ -1,0 +1,19 @@
+{
+ "name": "solo",
+ "slug": "solo",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Work on one hard mathematics problem in this session yourself, with no sub-agents: reason in stages, record each settled step in a notes file so that nothing written is lost if a response is cut off, and end with a self-contained proof.md. Usage: /math-proof:solo <the problem, stated in full, or the path of a file holding it>.",
+ "source_repo": "anthropics/claude-plugins-official",
+ "source_url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/math-proof/skills/solo",
+ "source_commit": "0fbfda5a91f4adc311daca25acc99132f40f0b6e",
+ "source_commit_url": "https://github.com/anthropics/claude-plugins-official/tree/0fbfda5a91f4adc311daca25acc99132f40f0b6e/plugins/math-proof/skills/solo",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#solo"
+}

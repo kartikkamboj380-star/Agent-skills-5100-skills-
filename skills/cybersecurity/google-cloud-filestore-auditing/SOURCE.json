@@ -1,0 +1,19 @@
+{
+ "name": "google-cloud-filestore-auditing",
+ "slug": "googlecloudfilestoreauditing",
+ "format": "agent-skill",
+ "category": "cybersecurity",
+ "subcategory": "Secure Coding",
+ "description": "Audits Filestore instances on Google Cloud across projects for disaster recovery readiness (missing or stale backups), security access governance (overly permissive NFS export rules, 0.0.0.0/0 exposure, missing ROOT_SQUASH), and reliability compliance (Physical Zone Isolation PZI and Physical Zone Separation PZS). Use when assessing storage health posture, auditing NFS export permissions, identifying unprotected file shares, or validating zone failure domains. Don't use for Cloud Storage buckets, Persistent Disk, or NetApp Volumes.",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/google-cloud-filestore-auditing",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/google-cloud-filestore-auditing",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#googlecloudfilestoreauditing"
+}

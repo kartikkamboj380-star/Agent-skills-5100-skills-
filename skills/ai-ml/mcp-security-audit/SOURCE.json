@@ -1,0 +1,19 @@
+{
+ "name": "mcp-security-audit",
+ "slug": "mcpsecurityaudit",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "MCP",
+ "description": "Audit MCP (Model Context Protocol) server configurations for security issues. Use this skill when: - Reviewing .mcp.json files for security risks - Checking MCP server args for hardcoded secrets or shell injection patterns - Validating that MCP package-runner dependencies use exact reviewed versions, not bare names, @latest, or ranges - Detecting mutable npm/npx, bunx, pnpm dlx, yarn dlx, npm exec, uvx, uv tool run, and pipx run references in MCP configurations - Auditing which MCP servers a project registers and whether they're on an approved list - Checking for environment variable usage vs. hardcoded credentials in MCP configs - Any request like \"is my MCP config secure?\", \"audit my MCP servers\", or \"check .mcp.json\" keywords: [mcp, security, audit, secrets, shell-injection, supply-chain, governance]",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/mcp-security-audit",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/mcp-security-audit",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#mcpsecurityaudit"
+}

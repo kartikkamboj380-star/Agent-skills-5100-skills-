@@ -1,0 +1,19 @@
+{
+ "name": "trade-study-report",
+ "slug": "tradestudyreport",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Turns a filled-in trade study matrix and its analysis results into a scored comparison and a decision memo, with every score cited to its source. Runs the sensitivity analysis every time — where the winner flips, which criterion the decision actually rests on, whether an option never wins under any plausible weighting — because a recommendation with no sensitivity check is a spreadsheet, not a decision. Disqualifies options that violate a hard constraint rather than scoring them low. Consumes design-space-explore's variant manifest when one exists, or a matrix filled in by hand when it doesn't. Use when someone says \\\"compare these options,\\\" \\\"write the trade study,\\\" \\\"which design should we pick,\\\" \\\"score these against the requirements,\\\" or \\\"how sensitive is this decision to the weighting.\\",
+ "source_repo": "anthropics/claude-plugins-official",
+ "source_url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-for-manufacturing/skills/trade-study-report",
+ "source_commit": "0fbfda5a91f4adc311daca25acc99132f40f0b6e",
+ "source_commit_url": "https://github.com/anthropics/claude-plugins-official/tree/0fbfda5a91f4adc311daca25acc99132f40f0b6e/plugins/claude-for-manufacturing/skills/trade-study-report",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#tradestudyreport"
+}

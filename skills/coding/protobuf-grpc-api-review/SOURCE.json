@@ -1,0 +1,19 @@
+{
+ "name": "protobuf-grpc-api-review",
+ "slug": "protobufgrpcapireview",
+ "format": "agent-skill",
+ "category": "coding",
+ "subcategory": "API Development",
+ "description": "Review Protocol Buffer (.proto) and gRPC API changes for wire and JSON compatibility, safe schema evolution, rollout hazards, and RPC contract quality. Use when reviewing proto diffs, adding or changing messages and services, planning migrations, or diagnosing cross-version failures.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/protobuf-grpc-api-review",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/protobuf-grpc-api-review",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#protobufgrpcapireview"
+}

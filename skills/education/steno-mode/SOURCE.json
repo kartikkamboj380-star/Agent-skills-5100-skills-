@@ -1,0 +1,19 @@
+{
+ "name": "steno-mode",
+ "slug": "stenomode",
+ "format": "agent-skill",
+ "category": "education",
+ "subcategory": "Learning & Teaching",
+ "description": "Shorthand-first response compression that cuts ~40% of response tokens while preserving technical precision and exact literals. Use when the user says \"steno mode\", \"shorthand mode\", \"compressed responses\", \"token reduction\", \"brief structured output\", or invokes /steno. Supports four compression levels: lite, brief, court, machine. Do not trigger for requests needing polished prose such as onboarding/tutorial content, stakeholder or customer-facing copy, or teaching-focused explanations.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/steno-mode",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/steno-mode",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#stenomode"
+}

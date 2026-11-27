@@ -1,0 +1,19 @@
+{
+ "name": "security-audit",
+ "slug": "securityaudit",
+ "format": "agent-skill",
+ "category": "cybersecurity",
+ "subcategory": "Security Auditing",
+ "description": "Security guidance and vulnerability review for codebases, APIs, services, CLI tools, libraries, and daemons. Use for security questions, focused reviews, vulnerability research, security audits, or pen tests. Run the complete workflow only for explicit codebase audit or pen-test requests, full/comprehensive/end-to-end reviews, or requested report artifacts.",
+ "source_repo": "cloudflare/security-audit-skill",
+ "source_url": "https://github.com/cloudflare/security-audit-skill/tree/main/skills/security-audit",
+ "source_commit": "c1c8a8c1471069fb0e188eeaff69b8e8db6564a8",
+ "source_commit_url": "https://github.com/cloudflare/security-audit-skill/tree/c1c8a8c1471069fb0e188eeaff69b8e8db6564a8/skills/security-audit",
+ "author": "cloudflare",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#securityaudit"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "compute-spot-capacity-advice",
+ "slug": "computespotcapacityadvice",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Evaluates Google Compute Engine (GCE) Spot VM capacity obtainability, placement likelihood, and machine family or regional flexibility. Use when planning batch workloads, finding available Spot CPU or GPU capacity, assessing stockout risks, or optimizing instance distribution across zones. Don't use for TPU availability, on-demand reservation capacity (use compute-on-demand-reservations), or future GPU/TPU calendar bookings (use compute-future-reservations).",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/compute-spot-capacity-advice",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/compute-spot-capacity-advice",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#computespotcapacityadvice"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "obsidian-headless",
+ "slug": "obsidianheadless",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "CSS",
+ "description": "Sync and publish Obsidian vaults from the command line with Obsidian Headless (`ob`), without the desktop app. Use when the user wants to set up or run Obsidian Sync or Obsidian Publish on a server, in CI, or from a terminal, or change a vault's Sync or Publish settings.",
+ "source_repo": "obsidianmd/obsidian-skills",
+ "source_url": "https://github.com/obsidianmd/obsidian-skills/tree/main/plugins/obsidian/skills/obsidian-headless",
+ "source_commit": "9c9560a870fd490b0e1a847f2c8401a50e2d931d",
+ "source_commit_url": "https://github.com/obsidianmd/obsidian-skills/tree/9c9560a870fd490b0e1a847f2c8401a50e2d931d/plugins/obsidian/skills/obsidian-headless",
+ "author": "obsidianmd",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#obsidianheadless"
+}

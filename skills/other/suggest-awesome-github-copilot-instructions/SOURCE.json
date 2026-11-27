@@ -1,0 +1,19 @@
+{
+ "name": "suggest-awesome-github-copilot-instructions",
+ "slug": "suggestawesomegithubcopilotinstructions",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Suggest relevant GitHub Copilot instruction files from the awesome-copilot repository based on current repository context and chat history, avoiding duplicates with existing instructions in this repository, and identifying outdated instructions that need updates.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/suggest-awesome-github-copilot-instructions",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/suggest-awesome-github-copilot-instructions",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#suggestawesomegithubcopilotinstructions"
+}

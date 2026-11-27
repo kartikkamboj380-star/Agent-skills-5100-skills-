@@ -1,0 +1,19 @@
+{
+ "name": "developing-genkit-js",
+ "slug": "developinggenkitjs",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "JavaScript",
+ "description": "Provides guidance on developing AI-powered applications using Genkit in Node.js/TypeScript. Use when the user asks about Genkit, AI agents, flows, or tools in JavaScript/TypeScript, or when encountering Genkit errors, validation issues, type errors, or API problems. Don't use for Genkit in Python, Go, or Dart.",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/developing-genkit-js",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/developing-genkit-js",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#developinggenkitjs"
+}

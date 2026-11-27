@@ -1,0 +1,19 @@
+{
+ "name": "agent-owasp-compliance",
+ "slug": "agentowaspcompliance",
+ "format": "agent-skill",
+ "category": "cybersecurity",
+ "subcategory": "Security Auditing",
+ "description": "Check any AI agent codebase against the OWASP Agentic Security Initiative (ASI) Top 10 risks. Use this skill when: - Evaluating an agent system's security posture before production deployment - Running a compliance check against OWASP ASI 2026 standards - Mapping existing security controls to the 10 agentic risks - Generating a compliance report for security review or audit - Comparing agent framework security features against the standard - Any request like \"is my agent OWASP compliant?\", \"check ASI compliance\", or \"agentic security audit\"",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/agent-owasp-compliance",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/agent-owasp-compliance",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#agentowaspcompliance"
+}

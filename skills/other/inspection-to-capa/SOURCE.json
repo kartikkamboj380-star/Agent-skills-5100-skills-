@@ -1,0 +1,19 @@
+{
+ "name": "inspection-to-capa",
+ "slug": "inspectiontocapa",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Runs the quality chain end to end: writes the nonconformance against the requirement it violates, searches history at the moment of writing to say whether this has happened before and whether the last fix held, reads sensor and inspection data on one verified timeline, proposes ranked candidate causes with evidence for and against, drafts the 8D, and produces the customer pack behind a redaction diff. Use when someone says \\\"run the CAPA chain,\\\" \\\"take this nonconformance through to an 8D,\\\" \\\"inspection to CAPA,\\\" or asks for the full corrective-action workflow.",
+ "source_repo": "anthropics/claude-plugins-official",
+ "source_url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-for-manufacturing/skills/inspection-to-capa",
+ "source_commit": "0fbfda5a91f4adc311daca25acc99132f40f0b6e",
+ "source_commit_url": "https://github.com/anthropics/claude-plugins-official/tree/0fbfda5a91f4adc311daca25acc99132f40f0b6e/plugins/claude-for-manufacturing/skills/inspection-to-capa",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#inspectiontocapa"
+}

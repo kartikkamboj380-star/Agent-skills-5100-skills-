@@ -1,0 +1,19 @@
+{
+ "name": "bug-reproduction-brief",
+ "slug": "bugreproductionbrief",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Turn a vague, intermittent, or environment-specific bug report into a minimal evidence-backed reproduction before proposing a fix.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/bug-reproduction-brief",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/bug-reproduction-brief",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#bugreproductionbrief"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "File Path Traversal Testing",
+ "slug": "filepathtraversaltesting",
+ "format": "agent-skill",
+ "category": "cybersecurity",
+ "subcategory": "Vulnerability Assessment",
+ "description": "This skill should be used when the user asks to \"test for directory traversal\", \"exploit path traversal vulnerabilities\", \"read arbitrary files through web applications\", \"find LFI vulnerabilities\", or \"access files outside web root\". It provides comprehensive file path traversal attack and testing methodologies.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/file-path-traversal",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/security/file-path-traversal",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#filepathtraversaltesting"
+}

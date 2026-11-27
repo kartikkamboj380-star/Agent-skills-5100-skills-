@@ -1,0 +1,19 @@
+{
+ "name": "code-tour",
+ "slug": "codetour",
+ "format": "agent-skill",
+ "category": "cybersecurity",
+ "subcategory": "Security Auditing",
+ "description": "Use this skill to create CodeTour .tour files — persona-targeted, step-by-step walkthroughs that link to real files and line numbers. Trigger for: \"create a tour\", \"make a code tour\", \"generate a tour\", \"onboarding tour\", \"tour for this PR\", \"tour for this bug\", \"RCA tour\", \"architecture tour\", \"explain how X works\", \"vibe check\", \"PR review tour\", \"contributor guide\", \"help someone ramp up\", or any request for a structured walkthrough through code. Supports 20 developer personas (new joiner, bug fixer, architect, PR reviewer, vibecoder, security reviewer, and more), all CodeTour step types (file/line, selection, pattern, uri, commands, view), and tour-level fields (ref, isPrimary, nextTour). Works with any repository in any language.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/code-tour",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/code-tour",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#codetour"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "executing-plans",
+ "slug": "executingplans",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Use when executing an implementation plan in the current session as the implementer yourself — your human partner chose inline execution, or no subagent tool is available",
+ "source_repo": "obra/superpowers",
+ "source_url": "https://github.com/obra/superpowers/tree/main/skills/executing-plans",
+ "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+ "source_commit_url": "https://github.com/obra/superpowers/tree/22f0b463e7a5e579904dd6211a520321035526f7/skills/executing-plans",
+ "author": "obra",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#executingplans"
+}

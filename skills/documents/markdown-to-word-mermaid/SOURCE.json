@@ -1,0 +1,19 @@
+{
+ "name": "markdown-to-word-mermaid",
+ "slug": "markdowntowordmermaid",
+ "format": "agent-skill",
+ "category": "documents",
+ "subcategory": "DOCX",
+ "description": "Export Markdown containing Mermaid code fences to Word (.docx) with embedded SVG diagrams and PNG fallbacks. Use when diagram sharpness, Office-compatible labels, or page-aware placement matters. Not for Word-to-Markdown conversion, editable Office shapes, or general slide creation.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/markdown-to-word-mermaid",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/markdown-to-word-mermaid",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#markdowntowordmermaid"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "yara-rule-authoring",
+ "slug": "yararuleauthoring",
+ "format": "agent-skill",
+ "category": "cybersecurity",
+ "subcategory": "Malware Analysis",
+ "description": "Guides authoring of high-quality YARA-X detection rules for malware identification. Use when writing, reviewing, or optimizing YARA rules. Covers naming conventions, string selection, performance optimization, migration from legacy YARA, and false positive reduction. Triggers on: YARA, YARA-X, malware detection, threat hunting, IOC, signature, crx module, dex module.",
+ "source_repo": "trailofbits/skills",
+ "source_url": "https://github.com/trailofbits/skills/tree/main/plugins/yara-authoring/skills/yara-rule-authoring",
+ "source_commit": "149d7b21f4067765b82e67029730b42d228ef4b4",
+ "source_commit_url": "https://github.com/trailofbits/skills/tree/149d7b21f4067765b82e67029730b42d228ef4b4/plugins/yara-authoring/skills/yara-rule-authoring",
+ "author": "trailofbits",
+ "license": "CC-BY-SA-4.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#yararuleauthoring"
+}

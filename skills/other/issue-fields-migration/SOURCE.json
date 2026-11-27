@@ -1,0 +1,19 @@
+{
+ "name": "issue-fields-migration",
+ "slug": "issuefieldsmigration",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Bulk-migrate metadata to GitHub issue fields from two sources: repo labels (e.g. priority labels to a Priority field) and Project V2 fields. Use when users say \"migrate my labels to issue fields\", \"migrate project fields to issue fields\", \"convert labels to issue fields\", \"copy project field values to issue fields\", or ask about adopting issue fields. Issue fields are org-level typed metadata (single select, text, number, date) that replace label-based workarounds with structured, searchable, cross-repo fields.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/issue-fields-migration",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/issue-fields-migration",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#issuefieldsmigration"
+}

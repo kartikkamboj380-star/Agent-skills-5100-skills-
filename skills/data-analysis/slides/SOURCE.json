@@ -1,0 +1,19 @@
+{
+ "name": "slides",
+ "slug": "slides",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "Data Visualization",
+ "description": "Create strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting formulas, and contextual slide strategies.",
+ "source_repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+ "source_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/slides",
+ "source_commit": "11ca2b3bdd555649f278ee348c32a9302b24dcf1",
+ "source_commit_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/11ca2b3bdd555649f278ee348c32a9302b24dcf1/.claude/skills/slides",
+ "author": "nextlevelbuilder",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#slides"
+}

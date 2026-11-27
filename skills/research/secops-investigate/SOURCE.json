@@ -1,0 +1,19 @@
+{
+ "name": "secops-investigate",
+ "slug": "secopsinvestigate",
+ "format": "agent-skill",
+ "category": "research",
+ "subcategory": "Academic Research",
+ "description": "Expert guidance for deep security incident and entity investigations in Google SecOps. Use when investigating cases, analyzing entities (hosts, IPs, domains, hashes, users), extracting and searching UDM events, performing asset and user timeline analysis, and detecting lateral movement across enterprise networks. Don't use for detection rule authoring or YARA-L tuning (use secops-detection-engineering), proactive hypothesis-driven hunting (use secops-hunt), initial alert triage (use secops-triage), or basic case status updates (use secops-cases).",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/secops-investigate",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/secops-investigate",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#secopsinvestigate"
+}

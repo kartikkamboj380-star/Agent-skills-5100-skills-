@@ -1,0 +1,19 @@
+{
+ "name": "frontend-ui-engineering",
+ "slug": "frontenduiengineering",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "Accessibility",
+ "description": "Builds production-quality, accessible, responsive user-facing UIs. Use when building or modifying interfaces and pages, creating components, implementing layouts, meeting WCAG accessibility requirements, managing state, or when the output needs to look and feel production-quality rather than AI-generated.",
+ "source_repo": "addyosmani/agent-skills",
+ "source_url": "https://github.com/addyosmani/agent-skills/tree/main/skills/frontend-ui-engineering",
+ "source_commit": "e997ac5b9a74eab332d5e9793bb38a38c8cfdd74",
+ "source_commit_url": "https://github.com/addyosmani/agent-skills/tree/e997ac5b9a74eab332d5e9793bb38a38c8cfdd74/skills/frontend-ui-engineering",
+ "author": "addyosmani",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#frontenduiengineering"
+}

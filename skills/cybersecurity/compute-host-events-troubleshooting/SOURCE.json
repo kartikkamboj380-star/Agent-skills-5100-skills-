@@ -1,0 +1,19 @@
+{
+ "name": "compute-host-events-troubleshooting",
+ "slug": "computehosteventstroubleshooting",
+ "format": "agent-skill",
+ "category": "cybersecurity",
+ "subcategory": "Network Security",
+ "description": "Investigates, diagnoses, and mitigates Google Compute Engine virtual machine (VM) host events, including planned infrastructure maintenance (migrateOnHostMaintenance, terminateOnHostMaintenance), physical host hardware errors (hostError), guest OS terminations (guestTerminate), and Spot or Preemptible VM preemptions (compute.instances.preempted) using shutdown-script metadata. Use ONLY when an existing Compute Engine VM unexpectedly reboots, stops, crashes, is preempted, or becomes unresponsive due to physical host maintenance, hardware errors, or Local SSD recovery. DO NOT read or use for creating new standalone VMs, Managed Instance Group (MIG) autoscaler scale-out or scale-in failures, Google Kubernetes Engine (GKE) clusters, application OOM debugging, or VPC firewall issues.",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/compute-host-events-troubleshooting",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/compute-host-events-troubleshooting",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#computehosteventstroubleshooting"
+}

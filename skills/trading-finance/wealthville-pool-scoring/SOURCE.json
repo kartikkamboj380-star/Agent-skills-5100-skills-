@@ -1,0 +1,19 @@
+{
+ "name": "wealthville-pool-scoring",
+ "slug": "wealthvillepoolscoring",
+ "format": "agent-skill",
+ "category": "trading-finance",
+ "subcategory": "Crypto Research",
+ "description": "Score DeFi liquidity pools before providing liquidity. Returns a 0-100 pool score and an Enter/Hold/Exit/Reduce/Avoid verdict with calibrated confidence for ~68,800 Solana pools and 575 EVM pools, plus a public miss-inclusive track record. Use when asked whether a pool is worth LPing into, which pools look best right now, or how accurate the scores have actually been.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/web-data/wealthville-pool-scoring",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/web-data/wealthville-pool-scoring",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#wealthvillepoolscoring"
+}

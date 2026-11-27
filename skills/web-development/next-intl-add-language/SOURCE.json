@@ -1,0 +1,19 @@
+{
+ "name": "next-intl-add-language",
+ "slug": "nextintladdlanguage",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "Next.js",
+ "description": "Add new language to a Next.js + next-intl application",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/next-intl-add-language",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/next-intl-add-language",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#nextintladdlanguage"
+}

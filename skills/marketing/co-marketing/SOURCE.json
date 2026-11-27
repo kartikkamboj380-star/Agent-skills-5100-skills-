@@ -1,0 +1,19 @@
+{
+ "name": "co-marketing",
+ "slug": "comarketing",
+ "format": "agent-skill",
+ "category": "marketing",
+ "subcategory": "Content Marketing",
+ "description": "When the user wants co-marketing partners or joint campaigns, or asks whether a partner fits, a size mismatch matters, or how to split work and leads: integration partners, cross-promotion, co-branded content, joint webinars. For referral programs, see referrals. For launch partnerships, see launch. For running the event, see events.",
+ "source_repo": "coreyhaines31/marketingskills",
+ "source_url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/co-marketing",
+ "source_commit": "2bf95edb4ebd37198ab7fd18b99ba95c2145ec64",
+ "source_commit_url": "https://github.com/coreyhaines31/marketingskills/tree/2bf95edb4ebd37198ab7fd18b99ba95c2145ec64/skills/co-marketing",
+ "author": "coreyhaines31",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#comarketing"
+}

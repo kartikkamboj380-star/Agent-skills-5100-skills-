@@ -1,0 +1,19 @@
+{
+ "name": "google-cloud-filestore-log-troubleshooting",
+ "slug": "googlecloudfilestorelogtroubleshooting",
+ "format": "agent-skill",
+ "category": "cybersecurity",
+ "subcategory": "Network Security",
+ "description": "Diagnoses and resolves Filestore client mount failures on Google Cloud, permission errors (EACCES), and network timeouts (ETIMEDOUT). Use when an NFS mount hangs or fails from a Compute Engine VM, GKE pod, Cloud Run service, or Vertex AI workload, when `mount.nfs` reports \"Connection timed out\" or \"access denied by server\", when checking whether VPC ingress firewall rules or `nfsExportOptions` allow a client IP, or when a previously working Filestore share suddenly stops mounting after an administrative change. Don't use for Cloud Storage (GCS) buckets, Persistent Disk, or Cloud NetApp Volumes, and don't use for Filestore capacity scaling or backup and export-policy auditing.",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/google-cloud-filestore-log-troubleshooting",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/google-cloud-filestore-log-troubleshooting",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#googlecloudfilestorelogtroubleshooting"
+}

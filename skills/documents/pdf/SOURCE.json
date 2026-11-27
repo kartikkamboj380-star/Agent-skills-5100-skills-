@@ -1,0 +1,19 @@
+{
+ "name": "pdf",
+ "slug": "pdf",
+ "format": "agent-skill",
+ "category": "documents",
+ "subcategory": "PDF",
+ "description": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file or asks to produce one, use this skill.",
+ "source_repo": "anthropics/skills",
+ "source_url": "https://github.com/anthropics/skills/tree/main/skills/pdf",
+ "source_commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+ "source_commit_url": "https://github.com/anthropics/skills/tree/e4bb5d960d87126ff3b3a8af1a104b7db67560ba/skills/pdf",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "skill",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#pdf"
+}

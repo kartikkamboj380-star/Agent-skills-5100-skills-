@@ -1,0 +1,19 @@
+{
+ "name": "json-canvas",
+ "slug": "jsoncanvas",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "Data Visualization",
+ "description": "Create and edit JSON Canvas files (.canvas) with nodes, edges, groups, and connections. Use when working with .canvas files, creating visual canvases, mind maps, flowcharts, or when the user mentions Canvas files in Obsidian.",
+ "source_repo": "obsidianmd/obsidian-skills",
+ "source_url": "https://github.com/obsidianmd/obsidian-skills/tree/main/plugins/obsidian/skills/json-canvas",
+ "source_commit": "9c9560a870fd490b0e1a847f2c8401a50e2d931d",
+ "source_commit_url": "https://github.com/obsidianmd/obsidian-skills/tree/9c9560a870fd490b0e1a847f2c8401a50e2d931d/plugins/obsidian/skills/json-canvas",
+ "author": "obsidianmd",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#jsoncanvas"
+}

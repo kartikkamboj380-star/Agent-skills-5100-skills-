@@ -1,0 +1,19 @@
+{
+ "name": "root-cause-pareto",
+ "slug": "rootcausepareto",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "Data Visualization",
+ "description": "Build a decision-grade Pareto for downtime, defects, complaints or delays - with unit-of-measure discipline, category hygiene, exposure normalization and a follow-up metric. Use when the user mentions pareto analysis, kök neden, duruş analizi, downtime, arıza analizi, defect ranking, şikayet analizi, 80/20 analysis. Differentiator - treats the Pareto as the start of a causal investigation, not a bar chart deliverable.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/operations/root-cause-pareto",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/operations/root-cause-pareto",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#rootcausepareto"
+}

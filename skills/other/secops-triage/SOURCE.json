@@ -1,0 +1,19 @@
+{
+ "name": "secops-triage",
+ "slug": "secopstriage",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Expert guidance for security alert triage in Google SecOps. Use when investigating and triaging security alerts, determining false positives vs. true positives, assessing entity risk, adjusting alert severity or priority, and closing or escalating alerts and cases. Don't use for deep multi-hop incident investigations across host timelines (use secops-investigate), proactive threat hunting or retroactive IoC sweeps (use secops-hunt), or authoring new detection rules (use secops-detection-engineering).",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/secops-triage",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/secops-triage",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#secopstriage"
+}

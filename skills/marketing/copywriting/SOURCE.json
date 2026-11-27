@@ -1,0 +1,19 @@
+{
+ "name": "copywriting",
+ "slug": "copywriting",
+ "format": "agent-skill",
+ "category": "marketing",
+ "subcategory": "Copywriting",
+ "description": "When the user wants to write or rewrite page copy (homepage, landing, pricing, feature), or asks which headline, promise, or message to lead with. Diagnoses the input first (blank brief, real voice, or point edit) and changes only what it calls for. Claims must be supportable; a declined claim names the evidence that would unlock it. No AI tells like 'it's not X, it's Y' or 'no X, no Y, no Z'. For editing, see copy-editing. For emails, see emails. For the offer, see offers.",
+ "source_repo": "coreyhaines31/marketingskills",
+ "source_url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/copywriting",
+ "source_commit": "2bf95edb4ebd37198ab7fd18b99ba95c2145ec64",
+ "source_commit_url": "https://github.com/coreyhaines31/marketingskills/tree/2bf95edb4ebd37198ab7fd18b99ba95c2145ec64/skills/copywriting",
+ "author": "coreyhaines31",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#copywriting"
+}

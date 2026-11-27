@@ -1,0 +1,19 @@
+{
+ "name": "skill-creator",
+ "slug": "skillcreator",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "Skill Engineering",
+ "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
+ "source_repo": "anthropics/skills",
+ "source_url": "https://github.com/anthropics/skills/tree/main/skills/skill-creator",
+ "source_commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+ "source_commit_url": "https://github.com/anthropics/skills/tree/e4bb5d960d87126ff3b3a8af1a104b7db67560ba/skills/skill-creator",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "skill",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#skillcreator"
+}

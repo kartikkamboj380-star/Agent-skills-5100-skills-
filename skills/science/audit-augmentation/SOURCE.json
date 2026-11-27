@@ -1,0 +1,19 @@
+{
+ "name": "audit-augmentation",
+ "slug": "auditaugmentation",
+ "format": "agent-skill",
+ "category": "science",
+ "subcategory": "Bioinformatics",
+ "description": "Augments Trailmark code graphs with external audit findings from SARIF static analysis results, weAudit annotation files, and version-gated Trailmark 0.4.x binary-analysis graph exports. Maps findings to graph nodes by file and line overlap, creates severity-based subgraphs, and enables cross-referencing findings with pre-analysis data (blast radius, taint, etc.). Use when projecting SARIF results onto a code graph, overlaying weAudit annotations, importing binary graph findings, cross-referencing Semgrep, CodeQL, or binary-analysis findings with call graph data, or visualizing audit findings in the context of code structure.",
+ "source_repo": "trailofbits/skills",
+ "source_url": "https://github.com/trailofbits/skills/tree/main/plugins/trailmark/skills/audit-augmentation",
+ "source_commit": "149d7b21f4067765b82e67029730b42d228ef4b4",
+ "source_commit_url": "https://github.com/trailofbits/skills/tree/149d7b21f4067765b82e67029730b42d228ef4b4/plugins/trailmark/skills/audit-augmentation",
+ "author": "trailofbits",
+ "license": "CC-BY-SA-4.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#auditaugmentation"
+}

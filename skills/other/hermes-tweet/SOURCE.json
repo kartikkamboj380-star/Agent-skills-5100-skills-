@@ -1,0 +1,19 @@
+{
+ "name": "hermes-tweet",
+ "slug": "hermestweet",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Install and operate Hermes Tweet, a Hermes Agent plugin for X/Twitter research, timeline reading, tweet analysis, and approval-gated private or state-changing operations. Use this skill when installing Hermes Tweet, researching X/Twitter accounts, monitoring launch signals, investigating mentions, auditing giveaways, or preparing gated X operations. Use proactively when a Hermes Agent workflow needs current X/Twitter context. Requires XQUIK_API_KEY for read and action tools.",
+ "source_repo": "wshobson/agents",
+ "source_url": "https://github.com/wshobson/agents/tree/main/plugins/hermes-tweet/skills/hermes-tweet",
+ "source_commit": "c96b5f6552dba32e4492307493ee613581430715",
+ "source_commit_url": "https://github.com/wshobson/agents/tree/c96b5f6552dba32e4492307493ee613581430715/plugins/hermes-tweet/skills/hermes-tweet",
+ "author": "wshobson",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#hermestweet"
+}

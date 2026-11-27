@@ -1,0 +1,19 @@
+{
+ "name": "validate-bug",
+ "slug": "validatebug",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Use when a bug PoC package needs an independent rerun and judgment before patching.",
+ "source_repo": "trailofbits/skills",
+ "source_url": "https://github.com/trailofbits/skills/tree/main/plugins/patching-bugs/skills/validate-bug",
+ "source_commit": "149d7b21f4067765b82e67029730b42d228ef4b4",
+ "source_commit_url": "https://github.com/trailofbits/skills/tree/149d7b21f4067765b82e67029730b42d228ef4b4/plugins/patching-bugs/skills/validate-bug",
+ "author": "trailofbits",
+ "license": "CC-BY-SA-4.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#validatebug"
+}

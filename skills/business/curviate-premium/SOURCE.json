@@ -1,0 +1,19 @@
+{
+ "name": "curviate-premium",
+ "slug": "curviatepremium",
+ "format": "agent-skill",
+ "category": "business",
+ "subcategory": "HR & Recruiting",
+ "description": "Drive LinkedIn Sales Navigator and Recruiter through the Curviate CLI. Covers `sales-nav` (search, profile, message, lead and account lists, save-lead, save-account) and `recruiter` (projects, pipeline, talent-search, save-candidate, project jobs, applicants, message, profile, search), and what can refuse them: the LinkedIn subscription on the connected account, the Curviate seat, and the beta-operations gate. These commands carry no Curviate add-on paywall. Use when working a Sales Navigator or Recruiter seat, or when diagnosing why a premium command failed.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/curviate/curviate-premium",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/curviate/curviate-premium",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#curviatepremium"
+}

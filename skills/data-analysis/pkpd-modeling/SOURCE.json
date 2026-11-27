@@ -1,0 +1,19 @@
+{
+ "name": "pkpd-modeling",
+ "slug": "pkpdmodeling",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "Statistics",
+ "description": "Pharmacokinetic and pharmacodynamic modelling and simulation - non-compartmental analysis, compartmental and population PK, PK/PD and exposure-response, TMDD, PBPK orientation, bioequivalence, allometric scaling and first-in-human dose, drug interaction prediction, and Bayesian therapeutic drug monitoring. Use when analysing concentration-time data, deriving exposure metrics, fitting PK or PD models, or evaluating dosing regimens. Triggers include \"pharmacokinetics\", \"pharmacodynamics\", \"PK/PD\", \"NCA\", \"non-compartmental\", \"AUC\", \"Cmax\", \"lambda z\", \"half-life\", \"clearance\", \"volume of distribution\", \"compartmental model\", \"population PK\", \"popPK\", \"NONMEM\", \"nlmixr2\", \"Pharmpy\", \"Monolix\", \"exposure-response\", \"Emax\", \"EC50\", \"indirect response\", \"effect compartment\", \"TMDD\", \"PBPK\", \"bioequivalence\", \"RSABE\", \"ABEL\", \"allometric scaling\", \"first-in-human\", \"MABEL\", \"drug-drug interaction\", \"DDI\", \"ICH M12\", \"concentration-QTc\", \"therapeutic drug monitoring\", \"MIPD\", and \"dosing regimen\".",
+ "source_repo": "K-Dense-AI/scientific-agent-skills",
+ "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/pkpd-modeling",
+ "source_commit": "c21d13b3cc2894680229ba9959a53281acb9200e",
+ "source_commit_url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/c21d13b3cc2894680229ba9959a53281acb9200e/skills/pkpd-modeling",
+ "author": "K-Dense-AI",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#pkpdmodeling"
+}

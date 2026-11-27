@@ -1,0 +1,19 @@
+{
+ "name": "writing-beats",
+ "slug": "writingbeats",
+ "format": "agent-skill",
+ "category": "cybersecurity",
+ "subcategory": "Vulnerability Assessment",
+ "description": "Writing, exploit; assemble raw material into a journey of beats, grounding each term before a beat leans on it.",
+ "source_repo": "mattpocock/skills",
+ "source_url": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-beats",
+ "source_commit": "6f7f7831a625f040a8e06a0e7954826b87ce775a",
+ "source_commit_url": "https://github.com/mattpocock/skills/tree/6f7f7831a625f040a8e06a0e7954826b87ce775a/skills/in-progress/writing-beats",
+ "author": "mattpocock",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#writingbeats"
+}

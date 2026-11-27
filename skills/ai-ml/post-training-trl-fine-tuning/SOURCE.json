@@ -1,0 +1,19 @@
+{
+ "name": "post-training-trl-fine-tuning",
+ "slug": "posttrainingtrlfinetuning",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "Model Fine-Tuning",
+ "description": "Fine-tune LLMs using reinforcement learning with TRL - SFT for instruction tuning, DPO for preference alignment, PPO/GRPO for reward optimization, and reward model training. Use when need RLHF, align model with preferences, or train from human feedback. Works with HuggingFace Transformers.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-trl-fine-tuning",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/ai-research/post-training-trl-fine-tuning",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#posttrainingtrlfinetuning"
+}

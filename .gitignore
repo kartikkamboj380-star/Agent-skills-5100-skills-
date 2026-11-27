@@ -1,0 +1,9 @@
+# Build scratch space (never commit upstream clones or intermediate build data)
+.cache/
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Installer scratch
+skills-installed/
+.DS_Store

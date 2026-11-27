@@ -1,0 +1,19 @@
+{
+ "name": "think-tank",
+ "slug": "thinktank",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Run a Virtual Think Tank — a structured multi-persona debate — before planning or making architectural/design/strategic decisions. Use this skill whenever the user is about to plan a system, make a technology choice, evaluate trade-offs, decide on an approach, or faces any decision where multiple perspectives would sharpen the outcome. Also trigger when the user says \"think tank\", \"debate this\", \"perspectives on\", \"trade-offs\", \"should I use X or Y\", \"help me decide\", \"before we plan\", or asks for pros/cons of competing approaches. This skill should run BEFORE any implementation planning begins — it produces a structured analysis that feeds into better plans.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/think-tank",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/productivity/think-tank",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "skill",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#thinktank"
+}

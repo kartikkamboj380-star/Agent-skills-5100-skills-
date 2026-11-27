@@ -1,0 +1,19 @@
+{
+ "name": "readonly-sql-guard",
+ "slug": "readonlysqlguard",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "SQL",
+ "description": "Make an agent's database access provably read-only. Use when an agent runs caller-supplied SQL against a production/ERP/analytics database (a \"query\" MCP tool, text-to-SQL, an admin console), or when reviewing DB-access code for write/DDL/side-effect/transaction-escape risks. Checks what a statement CALLS, not just its shape.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/database/readonly-sql-guard",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/database/readonly-sql-guard",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#readonlysqlguard"
+}

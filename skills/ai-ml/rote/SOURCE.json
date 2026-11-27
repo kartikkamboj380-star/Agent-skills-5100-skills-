@@ -1,0 +1,19 @@
+{
+ "name": "rote",
+ "slug": "rote",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "MCP",
+ "description": "Compile a proven agent skill (a SKILL.md plus references) into a deterministic pipeline that runs without an LLM in the loop, then serve it back to Claude as an MCP tool. Use when: rote, compile this skill, turn this skill into a workflow, make this skill deterministic, make this skill cheaper or faster, harden this skill for production, run this skill as a background job.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/workflow-automation/rote",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/workflow-automation/rote",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#rote"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "google-ads-api-quickstart",
+ "slug": "googleadsapiquickstart",
+ "format": "agent-skill",
+ "category": "marketing",
+ "subcategory": "Ad Campaigns",
+ "description": "Guides developers through Google Ads API quickstart: credential setup, choosing from 6 client libraries/REST, configuring environments, and running a \"retrieve campaigns\" script. Troubleshoots common setup errors: USER_PERMISSION_DENIED, login_customer_id issues, and CLOUD_PROJECT_NOT_APPROVED_FOR_PRODUCTION (a Google Cloud project with Test access calling a production account).",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/ads/google-ads-api-quickstart",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/ads/google-ads-api-quickstart",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#googleadsapiquickstart"
+}

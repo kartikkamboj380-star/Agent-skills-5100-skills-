@@ -1,0 +1,19 @@
+{
+ "name": "react18-dep-compatibility",
+ "slug": "react18depcompatibility",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "React",
+ "description": "React 18.3.1 and React 19 dependency compatibility matrix.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/react18-dep-compatibility",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/react18-dep-compatibility",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#react18depcompatibility"
+}

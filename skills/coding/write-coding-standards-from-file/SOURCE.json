@@ -1,0 +1,19 @@
+{
+ "name": "write-coding-standards-from-file",
+ "slug": "writecodingstandardsfromfile",
+ "format": "agent-skill",
+ "category": "coding",
+ "subcategory": "General Programming",
+ "description": "Write a coding standards document for a project using the coding styles from the file(s) and/or folder(s) passed as arguments in the prompt.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/write-coding-standards-from-file",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/write-coding-standards-from-file",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#writecodingstandardsfromfile"
+}

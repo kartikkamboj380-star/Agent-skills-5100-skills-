@@ -1,0 +1,19 @@
+{
+ "name": "writing-for-agents",
+ "slug": "writingforagents",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Writing documents for agents. Use when creating or editing skills, or modifying AGENTS.md or CLAUDE.md.",
+ "source_repo": "mattpocock/skills",
+ "source_url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/writing-for-agents",
+ "source_commit": "6f7f7831a625f040a8e06a0e7954826b87ce775a",
+ "source_commit_url": "https://github.com/mattpocock/skills/tree/6f7f7831a625f040a8e06a0e7954826b87ce775a/skills/productivity/writing-for-agents",
+ "author": "mattpocock",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#writingforagents"
+}

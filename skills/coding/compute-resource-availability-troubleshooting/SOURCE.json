@@ -1,0 +1,19 @@
+{
+ "name": "compute-resource-availability-troubleshooting",
+ "slug": "computeresourceavailabilitytroubleshooting",
+ "format": "agent-skill",
+ "category": "coding",
+ "subcategory": "Debugging",
+ "description": "Diagnoses, mitigates, and prevents Google Compute Engine resource availability and capacity stockout errors (ZONE_RESOURCE_POOL_EXHAUSTED, ZONE_RESOURCE_POOL_EXHAUSTED_WITH_DETAILS, and machine type or accelerator unavailable in zone). Use ONLY when VM creation, Managed Instance Group (MIG) scale-out, or stopped instance startup fails due to regional or zonal hardware capacity exhaustion for GPUs, TPUs, or specific CPU shapes. DO NOT read or use for IAM permission errors, project quota limit increases without stockouts, general greenfield VM creation, or unexpected host reboots on already-running VMs.",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/compute-resource-availability-troubleshooting",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/compute-resource-availability-troubleshooting",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#computeresourceavailabilitytroubleshooting"
+}

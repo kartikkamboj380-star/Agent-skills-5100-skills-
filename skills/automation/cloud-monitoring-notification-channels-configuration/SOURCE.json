@@ -1,0 +1,19 @@
+{
+ "name": "cloud-monitoring-notification-channels-configuration",
+ "slug": "cloudmonitoringnotificationchannelsconfiguration",
+ "format": "agent-skill",
+ "category": "automation",
+ "subcategory": "API Integrations",
+ "description": "Generates Terraform HCL configurations for Cloud Monitoring notification channels (`google_monitoring_notification_channel`) and adds notification channels to alerting policies (`google_monitoring_alert_policy`) in Google Cloud projects. Use when creating or configuring email, SMS, Slack, PagerDuty, Pub/Sub, or webhook notification channels, verifying Pub/Sub topic compatibility (including cross-project topics, message storage policies, and in-transit enforcement) and publishing permissions for the Cloud Monitoring Service Agent, or adding notification channels to existing alert policies. Don't use for authoring or editing alerting policy conditions, selecting metric descriptors, or writing PromQL or Monitoring Filter queries.",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/cloud-monitoring-notification-channels-configuration",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/cloud-monitoring-notification-channels-configuration",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#cloudmonitoringnotificationchannelsconfiguration"
+}

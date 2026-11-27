@@ -1,0 +1,19 @@
+{
+ "name": "resx-source-generator-migration",
+ "slug": "resxsourcegeneratormigration",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Migrates a project that uses checked-in .designer.cs files behind .resx to using a source-generator instead",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/resx-source-generator-migration",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/resx-source-generator-migration",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#resxsourcegeneratormigration"
+}

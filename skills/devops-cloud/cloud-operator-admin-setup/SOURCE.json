@@ -1,0 +1,19 @@
+{
+ "name": "cloud-operator-admin-setup",
+ "slug": "cloudoperatoradminsetup",
+ "format": "agent-skill",
+ "category": "devops-cloud",
+ "subcategory": "GCP",
+ "description": "Sets up and manages the Cloud Operator Agent (\"Gemini for Google Cloud operations\" in the console) for a Google Cloud organization: turning it on or off, its organization-wide settings, and user access. Use when an organization administrator wants to set it up for the whole organization or change it, or when Cloud Operator is turned off for the organization or the user has no access there. Don't use when someone asks to set up Cloud Operator or their operator agent for themselves, even in a named organization (use `cloud-operator-setup`).",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/cloud-operator-admin-setup",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/cloud-operator-admin-setup",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#cloudoperatoradminsetup"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "marketing-ideas",
+ "slug": "marketingideas",
+ "format": "agent-skill",
+ "category": "marketing",
+ "subcategory": "Content Marketing",
+ "description": "When the user wants marketing ideas or growth tactics for a software product, or asks what to try to get attention or the next customers with little time or budget, or after the obvious channels. Draws on a library of 139 ideas. For a specific channel, see that skill (ads, social, emails, and others). For a full plan, see marketing-plan.",
+ "source_repo": "coreyhaines31/marketingskills",
+ "source_url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-ideas",
+ "source_commit": "2bf95edb4ebd37198ab7fd18b99ba95c2145ec64",
+ "source_commit_url": "https://github.com/coreyhaines31/marketingskills/tree/2bf95edb4ebd37198ab7fd18b99ba95c2145ec64/skills/marketing-ideas",
+ "author": "coreyhaines31",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#marketingideas"
+}

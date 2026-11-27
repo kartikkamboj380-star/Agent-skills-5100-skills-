@@ -1,0 +1,19 @@
+{
+ "name": "ui-styling",
+ "slug": "uistyling",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "Tailwind",
+ "description": "Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailwind), Tailwind CSS utility-first styling, and canvas-based visual designs. Use when building user interfaces, implementing design systems, creating responsive layouts, adding accessible components (dialogs, dropdowns, forms, tables), customizing themes and colors, implementing dark mode, generating visual designs and posters, or establishing consistent styling patterns across applications.",
+ "source_repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+ "source_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/ui-styling",
+ "source_commit": "11ca2b3bdd555649f278ee348c32a9302b24dcf1",
+ "source_commit_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/11ca2b3bdd555649f278ee348c32a9302b24dcf1/.claude/skills/ui-styling",
+ "author": "nextlevelbuilder",
+ "license": "Apache-2.0",
+ "license_scope": "skill",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#uistyling"
+}

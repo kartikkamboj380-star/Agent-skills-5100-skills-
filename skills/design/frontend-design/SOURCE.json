@@ -1,0 +1,19 @@
+{
+ "name": "frontend-design",
+ "slug": "frontenddesign",
+ "format": "agent-skill",
+ "category": "design",
+ "subcategory": "UI/UX",
+ "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
+ "source_repo": "anthropics/skills",
+ "source_url": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
+ "source_commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+ "source_commit_url": "https://github.com/anthropics/skills/tree/e4bb5d960d87126ff3b3a8af1a104b7db67560ba/skills/frontend-design",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "skill",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#frontenddesign"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "design-system",
+ "slug": "designsystem",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "CSS",
+ "description": "Token architecture, component specifications, and slide generation. Three-layer tokens (primitive→semantic→component), CSS variables, spacing/typography scales, component specs, strategic slide creation. Use for design tokens, systematic design, brand-compliant presentations.",
+ "source_repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+ "source_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/design-system",
+ "source_commit": "11ca2b3bdd555649f278ee348c32a9302b24dcf1",
+ "source_commit_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/11ca2b3bdd555649f278ee348c32a9302b24dcf1/.claude/skills/design-system",
+ "author": "nextlevelbuilder",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#designsystem"
+}

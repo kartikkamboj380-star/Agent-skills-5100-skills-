@@ -1,0 +1,19 @@
+{
+ "name": "finding-duplicate-functions",
+ "slug": "findingduplicatefunctions",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "LLM Development",
+ "description": "Use when auditing a codebase for semantic duplication - functions that do the same thing but have different names or implementations. Especially useful for LLM-generated codebases where new functions are often created rather than reusing existing ones.",
+ "source_repo": "obra/superpowers-lab",
+ "source_url": "https://github.com/obra/superpowers-lab/tree/main/skills/finding-duplicate-functions",
+ "source_commit": "51111f74f24058117752d9aa917cb19859f8ec86",
+ "source_commit_url": "https://github.com/obra/superpowers-lab/tree/51111f74f24058117752d9aa917cb19859f8ec86/skills/finding-duplicate-functions",
+ "author": "obra",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#findingduplicatefunctions"
+}

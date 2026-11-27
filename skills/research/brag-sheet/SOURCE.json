@@ -1,0 +1,19 @@
+{
+ "name": "brag-sheet",
+ "slug": "bragsheet",
+ "format": "agent-skill",
+ "category": "research",
+ "subcategory": "Document Summarization",
+ "description": "Turn vague \"what did I do?\" into evidence-backed impact statements for performance reviews, self-reviews, promotion packets, and weekly updates. Uniquely mines Copilot CLI session logs to reconstruct forgotten work, plus git commits and GitHub PRs. Enforces a 3-part impact contract (action → result → evidence). Works standalone with zero dependencies. Trigger for: \"brag\", \"log work\", \"what did I do\", \"backfill my work history\", \"performance review\", \"self-review\", \"self assessment\", \"write impact statement\", \"review prep\", \"promo packet\", \"promotion case\", \"weekly update\", \"status report\", \"accomplishments\", \"what did I ship\", \"I forgot to log my work\", \"summarize my work\", \"track my wins\", \"what should I highlight\", \"end of half\", \"career growth\", \"work journal\", or any request to document, summarize, or organize work accomplishments.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/brag-sheet",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/brag-sheet",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#bragsheet"
+}

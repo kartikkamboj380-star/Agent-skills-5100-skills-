@@ -1,0 +1,19 @@
+{
+ "name": "bigquery-udfs",
+ "slug": "bigqueryudfs",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "SQL",
+ "description": "Creates, deploys, and troubleshoots BigQuery User-Defined Functions (UDFs) and Remote Functions across SQL, JavaScript, Python, and Cloud Run endpoints. Use when writing custom scalar or aggregate functions in BigQuery, installing PyPI packages or Cloud Storage libraries in a Python or JavaScript UDF, or calling Google Cloud and external APIs from a Python UDF (WITH CONNECTION) or Remote Function. Don't use for standard BigQuery table/dataset CRUD (use bigquery-basics), DataFrames client workflows (use bigquery-bigframes), or BigQuery ML models (use bigquery-ai-ml).",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/bigquery-udfs",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/bigquery-udfs",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#bigqueryudfs"
+}

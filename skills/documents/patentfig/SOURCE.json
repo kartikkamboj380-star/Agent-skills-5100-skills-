@@ -1,0 +1,19 @@
+{
+ "name": "patentfig",
+ "slug": "patentfig",
+ "format": "agent-skill",
+ "category": "documents",
+ "subcategory": "PDF",
+ "description": "Generate patent-office-compliant figures via the PatentFig AI API — patent line art from text (PNG or SVG), vectorize drawings to SVG/DXF/vector PDF, AI-upscale images, and convert to filing-ready TIFF/PDF/PNG. Use when the user asks for patent drawings, patent figures, invention diagrams, USPTO/EPO-compliant line art, vectorizing a drawing for CAD, or preparing figures for a patent filing. Requires a PATENTFIG_API_KEY environment variable.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/patentfig",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/creative-design/patentfig",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#patentfig"
+}

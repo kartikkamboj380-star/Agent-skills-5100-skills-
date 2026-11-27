@@ -1,0 +1,19 @@
+{
+ "name": "polytype-middleware",
+ "slug": "polytypemiddleware",
+ "format": "agent-skill",
+ "category": "coding",
+ "subcategory": "C#",
+ "description": "Design or review the public API of a PolyType middleware library so it stays complete on net472 and netstandard2.0 while modern .NET callers use where T : IShapeable<T> with no witness. Use when adding generic methods, witness or TProvider overloads, extension members, or a #if NET / #if !NET split.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/polytype-middleware",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/polytype-middleware",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#polytypemiddleware"
+}

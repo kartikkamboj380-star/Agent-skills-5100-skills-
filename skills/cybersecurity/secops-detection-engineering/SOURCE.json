@@ -1,0 +1,19 @@
+{
+ "name": "secops-detection-engineering",
+ "slug": "secopsdetectionengineering",
+ "format": "agent-skill",
+ "category": "cybersecurity",
+ "subcategory": "Incident Response",
+ "description": "Author, validate, test, and deploy YARA-L 2.0 detection rules and evaluate end-to-end detection coverage gaps in Google SecOps. Use when writing new detection rules, tuning existing rules, validating syntax, testing logic against historical telemetry, or evaluating detection coverage against threat intelligence blogs, CVE disclosures, and Threat Detection Opportunities (TDOs) using synthetic UDM events and long-running coverage analysis. Don't use for alert triage (use secops-triage), deep forensic event reconstruction on infected hosts (use secops-investigate), or case management operations (use secops-cases).",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/secops-detection-engineering",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/secops-detection-engineering",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#secopsdetectionengineering"
+}

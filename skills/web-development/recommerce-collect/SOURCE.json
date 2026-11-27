@@ -1,0 +1,19 @@
+{
+ "name": "recommerce-collect",
+ "slug": "recommercecollect",
+ "format": "agent-skill",
+ "category": "web-development",
+ "subcategory": "CSS",
+ "description": "Assess whether a new or pre-owned item can realistically be collected and moved from the seller's pickup location to the buyer's destination. Use for dimensions, access, transport, disassembly, handling needs, costs, and collection constraints. Produces a conditional collection plan and prioritized missing measurements; does not book transport or arrange collection.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/recommerce-collect",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/productivity/recommerce-collect",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "skill",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#recommercecollect"
+}

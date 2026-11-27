@@ -1,0 +1,19 @@
+{
+ "name": "gmod-addon-maker",
+ "slug": "gmodaddonmaker",
+ "format": "agent-skill",
+ "category": "marketing",
+ "subcategory": "Content Marketing",
+ "description": "A tool for creating and managing Garry's Mod addons, including Lua scripting, content creation, and addon packaging. Use when: developing new addons, writing Lua scripts for GMod, organizing addon files, or when user mentions Garry's Mod, GMod, Lua scripting, or addon development.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/gmod-addon-maker",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/gmod-addon-maker",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#gmodaddonmaker"
+}

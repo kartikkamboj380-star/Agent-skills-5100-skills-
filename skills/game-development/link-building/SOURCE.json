@@ -1,0 +1,19 @@
+{
+ "name": "link-building",
+ "slug": "linkbuilding",
+ "format": "agent-skill",
+ "category": "game-development",
+ "subcategory": "Game Development",
+ "description": "When the user wants backlinks and mentions that lift rankings and AI citations, or asks how to get sites to link, whether a link tactic is safe, or where to buy placements: link gaps, unlinked mentions, broken links, guest posts, link marketplaces. On paid links, state Google's rule (rel=sponsored or nofollow) and the risk, then let the user decide. For press, see public-relations. For directories, see directory-submissions. For reviews, see referrals. For communities, see community-marketing.",
+ "source_repo": "coreyhaines31/marketingskills",
+ "source_url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/link-building",
+ "source_commit": "2bf95edb4ebd37198ab7fd18b99ba95c2145ec64",
+ "source_commit_url": "https://github.com/coreyhaines31/marketingskills/tree/2bf95edb4ebd37198ab7fd18b99ba95c2145ec64/skills/link-building",
+ "author": "coreyhaines31",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#linkbuilding"
+}

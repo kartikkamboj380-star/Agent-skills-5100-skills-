@@ -1,0 +1,19 @@
+{
+ "name": "spec-driven-development",
+ "slug": "specdrivendevelopment",
+ "format": "agent-skill",
+ "category": "business",
+ "subcategory": "Product Management",
+ "description": "Creates specs before coding. Use when starting a new project, feature, or significant change and no specification exists yet. Use when drafting a PRD or requirements document with objectives and scope, or when requirements are unclear, ambiguous, or only exist as a vague idea. Use when a single requirement spans several independently testable capabilities and needs decomposing into a capability map of modules before specifying. Use when evolving a shipped spec — scoping a V1, deferring ideas to a V2 backlog, or writing a follow-up spec for a change to an existing feature.",
+ "source_repo": "addyosmani/agent-skills",
+ "source_url": "https://github.com/addyosmani/agent-skills/tree/main/skills/spec-driven-development",
+ "source_commit": "e997ac5b9a74eab332d5e9793bb38a38c8cfdd74",
+ "source_commit_url": "https://github.com/addyosmani/agent-skills/tree/e997ac5b9a74eab332d5e9793bb38a38c8cfdd74/skills/spec-driven-development",
+ "author": "addyosmani",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#specdrivendevelopment"
+}

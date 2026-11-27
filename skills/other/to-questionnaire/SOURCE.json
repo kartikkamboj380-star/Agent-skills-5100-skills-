@@ -1,0 +1,19 @@
+{
+ "name": "to-questionnaire",
+ "slug": "toquestionnaire",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Turn a decision you can't fully answer into a questionnaire for someone else to fill in.",
+ "source_repo": "mattpocock/skills",
+ "source_url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/to-questionnaire",
+ "source_commit": "6f7f7831a625f040a8e06a0e7954826b87ce775a",
+ "source_commit_url": "https://github.com/mattpocock/skills/tree/6f7f7831a625f040a8e06a0e7954826b87ce775a/skills/productivity/to-questionnaire",
+ "author": "mattpocock",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#toquestionnaire"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "gke-workload-scaling-troubleshooting",
+ "slug": "gkeworkloadscalingtroubleshooting",
+ "format": "agent-skill",
+ "category": "cybersecurity",
+ "subcategory": "Network Security",
+ "description": "Diagnoses GKE HorizontalPodAutoscaler (HPA) failures — metrics showing as <unknown>, FailedGetResourceMetric / FailedGetScale / FailedComputeMetricsReplicas events, missing Pod resource requests, custom/external metrics-pipeline breakage (FailedGetExternalMetric / FailedGetCustomMetric, unavailable metrics adapter, control-plane firewall blocking the adapter), HPA that won't scale up or down (tolerance / stabilization window / unavailable rate metrics), scale-to/from-zero problems, and slow HPA reaction on large clusters. Use when an HPA isn't scaling a workload as expected or reports metric errors. Don't use for configuring or authoring new HPA/VPA objects or scaling best practices (see the gke-workload-scaling skill), or for Cluster Autoscaler / node-pool sizing.",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/cloud/gke-workload-scaling-troubleshooting",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/cloud/gke-workload-scaling-troubleshooting",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#gkeworkloadscalingtroubleshooting"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "globestudio",
+ "slug": "globestudio",
+ "format": "agent-skill",
+ "category": "data-analysis",
+ "subcategory": "Data Visualization",
+ "description": "Creates, edits and embeds dotted world maps and animated 3D globes with Globestudio (globestudio.app), a free open source studio with 21 looks. Use when the user wants a dotted map, a dotted or 3D globe, a spinning earth or a stylized world map for a website hero, background, slide, social post or video; when they paste a globestudio.app link or a ?c= config; or when code uses @globestudio/react, @globestudio/element, the globe-studio web component or globestudio.app/embed. Also use it to highlight a country, continent or region, plot points and arcs, match brand colors, or prepare PNG, SVG, GLB, MP4, WebM or GIF exports. Not for interactive tiled maps, routing, geocoding or GIS analysis (Mapbox, MapLibre, deck.gl), or for ordinary charts.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/globestudio",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/globestudio",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#globestudio"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "pre-mortem",
+ "slug": "premortem",
+ "format": "agent-skill",
+ "category": "coding",
+ "subcategory": "Go",
+ "description": "Use for a pre-mortem, or before committing to a plan, launch or migration: \"what could go wrong?\", \"stress test this plan\", \"how might this fail?\", \"risks before we ship\". Assumes failure, lists causes, ranks them and sets mitigations. Skip for explaining a failure that already happened.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/pre-mortem",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/productivity/pre-mortem",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#premortem"
+}

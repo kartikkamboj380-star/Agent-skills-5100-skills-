@@ -1,0 +1,19 @@
+{
+ "name": "safety-stock-review",
+ "slug": "safetystockreview",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Size or audit safety stock with assumption checks - the z*sigma*sqrt(LT) formula plus an empirical stress test of what it actually delivers (cycle service vs fill rate) per variability class. Use when the user mentions safety stock, emniyet stoku, emniyet stoğu, reorder point, service level, stok seviyesi belirleme. Differentiator - refuses to hand back a number without validating the demand-distribution assumptions behind it.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/operations/safety-stock-review",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/operations/safety-stock-review",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#safetystockreview"
+}

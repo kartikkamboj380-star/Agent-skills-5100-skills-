@@ -1,0 +1,19 @@
+{
+ "name": "flowstudio-power-automate-monitoring",
+ "slug": "flowstudiopowerautomatemonitoring",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "MCP",
+ "description": "Pro+ subscription required. Tenant-wide Power Automate monitoring using the FlowStudio MCP cached store: failure rates, run-health trends, maker/app inventory, inactive owners, and compliance/health reports. Use only for aggregated tenant views. For one environment, one flow, run control, or root-cause debugging, use flowstudio-power-automate-mcp, flowstudio-power-automate-debug, or the server monitor-flow bundle. Requires FlowStudio for Teams or MCP Pro+.",
+ "source_repo": "github/awesome-copilot",
+ "source_url": "https://github.com/github/awesome-copilot/tree/main/skills/flowstudio-power-automate-monitoring",
+ "source_commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+ "source_commit_url": "https://github.com/github/awesome-copilot/tree/93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf/skills/flowstudio-power-automate-monitoring",
+ "author": "github",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#flowstudiopowerautomatemonitoring"
+}

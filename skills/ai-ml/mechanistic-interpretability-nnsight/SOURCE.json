@@ -1,0 +1,19 @@
+{
+ "name": "mechanistic-interpretability-nnsight",
+ "slug": "mechanisticinterpretabilitynnsight",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "Deep Learning",
+ "description": "Provides guidance for interpreting and manipulating neural network internals using nnsight with optional NDIF remote execution. Use when needing to run interpretability experiments on massive models (70B+) without local GPU resources, or when working with any PyTorch architecture.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/mechanistic-interpretability-nnsight",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/ai-research/mechanistic-interpretability-nnsight",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#mechanisticinterpretabilitynnsight"
+}

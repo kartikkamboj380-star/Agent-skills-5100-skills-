@@ -1,0 +1,19 @@
+{
+ "name": "hosted",
+ "slug": "hosted",
+ "format": "agent-skill",
+ "category": "ai-ml",
+ "subcategory": "MCP",
+ "description": "Hosted Claude Security: list what it has open for this repository, show one of its findings from a link or an ID (also to fix it), check on a project, or say how to add this repository. Load it before reading from a Claude Security connector or MCP tool: when the user asks about hosted Claude Security projects or findings, or pastes a claude.ai/security link, a find_... ID, or a prompt copied from Claude Security. Not for resolving or reopening a finding, nor for a project's documents.",
+ "source_repo": "anthropics/claude-plugins-official",
+ "source_url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-security/skills/hosted",
+ "source_commit": "0fbfda5a91f4adc311daca25acc99132f40f0b6e",
+ "source_commit_url": "https://github.com/anthropics/claude-plugins-official/tree/0fbfda5a91f4adc311daca25acc99132f40f0b6e/plugins/claude-security/skills/hosted",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#hosted"
+}

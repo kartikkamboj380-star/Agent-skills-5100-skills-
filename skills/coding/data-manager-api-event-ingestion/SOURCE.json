@@ -1,0 +1,19 @@
+{
+ "name": "data-manager-api-event-ingestion",
+ "slug": "datamanagerapieventingestion",
+ "format": "agent-skill",
+ "category": "coding",
+ "subcategory": "Debugging",
+ "description": "Guides developers through implementing event and conversion ingestion to Google products using the Data Manager API /v1/events:ingest endpoint and its associated client libraries. Use this skill when the user wants to upload offline conversions, enhanced conversions for leads, click conversions, call conversions, Google Analytics web or app events, or any other event ingestion use case supported by the Data Manager API. Don't use for uploading audience members (use the data-manager-api-audience-ingestion skill), or for debugging errors, checking request status, or investigating missing conversions (use the data-manager-api-troubleshooting skill).",
+ "source_repo": "google/skills",
+ "source_url": "https://github.com/google/skills/tree/main/skills/ads/data-manager-api-event-ingestion",
+ "source_commit": "27c1beae9cd7c34aa4ebde9de3735898e50a1a19",
+ "source_commit_url": "https://github.com/google/skills/tree/27c1beae9cd7c34aa4ebde9de3735898e50a1a19/skills/ads/data-manager-api-event-ingestion",
+ "author": "google",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#datamanagerapieventingestion"
+}

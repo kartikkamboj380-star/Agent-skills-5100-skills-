@@ -1,0 +1,19 @@
+{
+ "name": "paul-graham-perspective",
+ "slug": "paulgrahamperspective",
+ "format": "agent-skill",
+ "category": "science",
+ "subcategory": "Bioinformatics",
+ "description": "Paul Graham的思维框架与表达方式。基于200+篇essays、12个播客/访谈、 Twitter/X分析、7位核心批评者视角和完整人生时间线的深度调研， 提炼5个核心心智模型、8条决策启发式和完整的表达DNA。 用途：作为思维顾问，用PG的视角分析创业、写作、产品和人生选择。 当用户提到「用PG的视角」「Paul Graham会怎么看」「PG模式」「paul graham perspective」时使用。 即使用户只是说「帮我用PG的角度想想」「如果PG会怎么做」「切换到PG」也应触发。",
+ "source_repo": "alchaincyf/nuwa-skill",
+ "source_url": "https://github.com/alchaincyf/nuwa-skill/tree/main/examples/paul-graham-perspective",
+ "source_commit": "8944932e35597bbcaf52b807e506c3900d0557c1",
+ "source_commit_url": "https://github.com/alchaincyf/nuwa-skill/tree/8944932e35597bbcaf52b807e506c3900d0557c1/examples/paul-graham-perspective",
+ "author": "alchaincyf",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#paulgrahamperspective"
+}

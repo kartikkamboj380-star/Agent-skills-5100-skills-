@@ -1,0 +1,19 @@
+{
+ "name": "daily-production-report",
+ "slug": "dailyproductionreport",
+ "format": "agent-skill",
+ "category": "other",
+ "subcategory": "",
+ "description": "Produces the morning production report: output against plan by line, cell and product; OEE with availability, performance and quality shown separately; the downtime log ranked both by minutes and by frequency; scrap and downtime priced in dollars; week-over-week movers; and the exceptions needing a decision today. For each significant exception it drafts a specific reschedule or changeover move with its consequences traced, never a re-optimised day. Reads the consolidated dataset and leads with data freshness. When the plant has a floor plan on file, or attaches one, it also draws each machine's OEE, availability and downtime on a schematic of the floor. Use when someone says \\\"morning report,\\\" \\\"production report,\\\" \\\"how did we do yesterday,\\\" \\\"what's our OEE,\\\" \\\"downtime report,\\\" \\\"what's late,\\\" or \\\"what do I take into the production meeting.\\",
+ "source_repo": "anthropics/claude-plugins-official",
+ "source_url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-for-manufacturing/skills/daily-production-report",
+ "source_commit": "0fbfda5a91f4adc311daca25acc99132f40f0b6e",
+ "source_commit_url": "https://github.com/anthropics/claude-plugins-official/tree/0fbfda5a91f4adc311daca25acc99132f40f0b6e/plugins/claude-for-manufacturing/skills/daily-production-report",
+ "author": "anthropics",
+ "license": "Apache-2.0",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#dailyproductionreport"
+}

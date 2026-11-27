@@ -1,0 +1,57 @@
+{
+ "total_unique_skills": 6937,
+ "imported": 1545,
+ "catalog_only": 5392,
+ "by_format": {
+  "agent-skill": 5922,
+  "agent-definition": 220,
+  "instruction": 195,
+  "external-listing": 600
+ },
+ "by_category": {
+  "other": 1958,
+  "ai-ml": 1418,
+  "web-development": 612,
+  "coding": 556,
+  "devops-cloud": 413,
+  "cybersecurity": 303,
+  "data-analysis": 283,
+  "design": 183,
+  "automation": 178,
+  "business": 158,
+  "documents": 153,
+  "science": 151,
+  "marketing": 149,
+  "research": 109,
+  "android": 89,
+  "trading-finance": 79,
+  "writing": 79,
+  "game-development": 38,
+  "education": 28
+ },
+ "by_license": {
+  "MIT": 5063,
+  "none": 835,
+  "unknown": 600,
+  "Apache-2.0": 353,
+  "CC-BY-SA-4.0": 81,
+  "CC-BY-4.0": 2,
+  "BSD-3-Clause": 1,
+  "AGPL-3.0": 1,
+  "CC0-1.0": 1
+ },
+ "by_import_status": {
+  "catalog-only": 5392,
+  "imported": 1545
+ },
+ "security_scan_flagged": 48,
+ "source_repositories": 363,
+ "upstream_risk_labels": {
+  "(none)": 3918,
+  "critical": 1625,
+  "safe": 1146,
+  "offensive": 150,
+  "none": 81,
+  "unknown": 17
+ }
+}

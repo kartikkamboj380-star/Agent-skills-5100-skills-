@@ -1,0 +1,19 @@
+{
+ "name": "technical-debt-auditor",
+ "slug": "technicaldebtauditor",
+ "format": "agent-skill",
+ "category": "coding",
+ "subcategory": "Refactoring",
+ "description": "Scans a codebase and produces a quantified technical debt report with a prioritized remediation plan. Analyzes dead code, TODO/FIXME/HACK markers, dependency staleness, complexity hotspots, code duplication signals, test coverage gaps, unused exports, and outdated patterns. Use this skill when the user asks to audit their codebase for tech debt, wants a health check of their code quality, says things like \"where should I focus refactoring\", \"find code smells\", \"audit my codebase\", \"what technical debt do we have\", \"prioritize cleanup work\", or asks about code quality metrics. Also trigger when the user mentions \"code rot\", \"legacy cleanup\", \"refactoring priorities\", or wants to understand the overall health of a project before a major effort. Trigger even if the user doesn't say \"technical debt\" explicitly — any request to systematically assess code quality and identify improvement priorities belongs here.",
+ "source_repo": "davila7/claude-code-templates",
+ "source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/technical-debt-auditor",
+ "source_commit": "77e05e435a9c49f3e7825eca64cb207d3e38c827",
+ "source_commit_url": "https://github.com/davila7/claude-code-templates/tree/77e05e435a9c49f3e7825eca64cb207d3e38c827/cli-tool/components/skills/development/technical-debt-auditor",
+ "author": "davila7",
+ "license": "MIT",
+ "license_scope": "repo",
+ "upstream_risk": "",
+ "imported_at": "2026-11-27",
+ "import_mode": "verbatim-copy",
+ "catalog_entry": "catalog/skills.json#technicaldebtauditor"
+}
